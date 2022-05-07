@@ -1,0 +1,46 @@
+body{
+    margin: 0; /* margem zero */
+    height: 100vh; /* ocupa 100% da altura no navegador */
+    display: grid; /*informa que usara css grid */
+   
+    /* definie as colunas e linhas da pagina */
+    grid-template-areas:
+    "topo topo topo" /* linha ocupada com topo*/
+    "boxL meio boxR" /* linha com tres itens diferentes*/
+    "rodape rodape rodape"; /* linha com 3 itens iguasi*/
+   
+    /*--define o tamanho das linhas
+    linha1 40px
+    linha2 1fr (tamanho flexivel)
+    linha3 60px ultima linha*/
+    grid-template-rows: 40px 1fr 60px;
+   
+    /*--define o tamanho das colunas
+    coluna1 80px
+    coluna2 1fr (tamanho flexivel)
+    coluna3 60px ultima linha*/
+    grid-template-columns: 80px 1fr 60px;
+    }
+   
+    header { grid-area: topo; /*informa que o header vai ficar na area definida acima
+        (topo topo topo) */
+         background: green; /* cor do header*/
+         }
+         main {
+         grid-area: meio; /*informa que o (main) vai ficar na area definida acima
+        ( meio) */
+         background: red;
+         }
+         /* Mesma ideia para os itens abaixo */
+         asideL {
+         grid-area: boxL;
+         background: blue;
+         }
+         asideR {
+         grid-area: boxR;
+         background: yellow;
+         }
+         footer{
+         grid-area: rodape;
+         background: gray;
+         }
