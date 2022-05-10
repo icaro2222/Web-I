@@ -1,4 +1,5 @@
 <?php 
+
 include('db/conexao.php');
 $id = mysqli_real_escape_string($conexao, $_POST['id']);
 $nome = mysqli_real_escape_string($conexao, $_POST['nome']);
