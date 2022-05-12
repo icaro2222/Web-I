@@ -3,9 +3,9 @@
 
 class BD{
 
-    private $BD_NOME = "webi";
-    private $BD_USUARIO = "root";
-    private $BD_SENHA = "";
+    private $BD_NOME = "web1";
+    private $BD_USUARIO = "icaro";
+    private $BD_SENHA = "tatakae";
     private $BD_CHARSET = "utf-8";
 
     public function connection(){

@@ -24,9 +24,9 @@
         <th scope="col">Telefone</th>
     </tr>
     <?php
-    require_once("db.php");
-    
-        
+
+    include 'Db.php';
+
     $obj = new BD();
     $aluno = $obj->select();
 
@@ -41,7 +41,7 @@
         <td>
             <form action="../db/DeletarAluno.php" method="post">
                 <input type="submit" value="apagar">
-                <input type="number" name="cpf" value="<?php  echo $Aluno->cpf?>">
+                <input type="hidden" name="cpf" value="<?php  echo $Aluno->cpf?>">
         </form>
     </td>
 
