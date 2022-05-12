@@ -21,24 +21,41 @@ body{
     coluna3 60px ultima linha*/
     grid-template-columns: 80px 1fr 60px;
     }
-   
+
+    .div1 {
+        background: rgb(134, 182, 144);
+        width: 10%;
+        height: 50%;
+    }
+
+    .cadastro {
+        background: burlywood;
+        display: flex;
+        width: 90%;
+        height: 50%;
+        padding: 100px;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+    }
+
     header { grid-area: topo; /*informa que o header vai ficar na area definida acima
         (topo topo topo) */
-         background: green; /* cor do header*/
+         background: rgb(125, 177, 255); /* cor do header*/
          }
          main {
          grid-area: meio; /*informa que o (main) vai ficar na area definida acima
         ( meio) */
-         background: red;
+         background: rgb(206, 239, 252);
          }
          /* Mesma ideia para os itens abaixo */
          asideL {
          grid-area: boxL;
-         background: blue;
+         background: rgb(12, 12, 78);
          }
          asideR {
          grid-area: boxR;
-         background: yellow;
+         background: rgb(101, 181, 247);
          }
          footer{
          grid-area: rodape;
