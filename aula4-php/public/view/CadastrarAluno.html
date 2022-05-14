@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="../css/style-grid.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Cadastrar Aluno</title>
+</head>
+<body>
+	<header>Topo</header>
+	<main>
+		<div>
+			<div class="div1">
+				<a href="../view/index.html">Voltar</a>
+			</div>
+			<div class="cadastro">
+				<form action="../db/CadastrarAluno.php" method="POST">
+					<label>Nome: </label>
+					<input type="text" name="nome">
+
+
+					<label>Endereço: </label>
+					<input type="text" name="endereco">
+
+
+					<label>CPF: </label>
+					<input type="text" name="cpf">
+
+
+					<label>Idade: </label>
+					<input type="number" name="idade">
+
+					<label>Telefone: </label>
+					<input type="text" name="telefone">
+
+					<input type="submit" name="enviar">
+				</form>
+			</div>
+		</div>
+	</main>
+	<asideL>Lateral ESQ</asideL>
+	<asideR>Lateral Dir</asideR>
+	<footer>Rodape </footer>
+
+
+</body>
+</html>
