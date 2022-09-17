@@ -1,0 +1,573 @@
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_connform.ListSessions<|||>1<|||>0,0
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>50,357,90,70
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,825
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,148,90,60,140,50,125,130,142,100,100
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>185,80,100,80,80,80
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>381,100,80
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,10
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+CreateDbCollation<|||>1<|||>utf8mb4_unicode_ci
+CSVImportDuplicateHandling<|||>3<|||>0
+CSVImportParseMethod<|||>3<|||>1
+DataFontSize<|||>3<|||>12
+DateTimeEditor_CursorPos_Type4<|||>3<|||>0
+dbtreewidth<|||>3<|||>230
+ExportSQL_CreateDatabases<|||>3<|||>0
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>2
+ExportSQL_DataInsertSize<|||>3<|||>21024
+ExportSQL_Filenames<|||>1<|||>C:\users\icaro\Documents\pg.sql<{{{><}}}>C:\users\icaro\Documents\rrr.sql<{{{><}}}>C:\users\icaro\Documents\Faculdade\Topicos-Avançados-Em-Analise-de-Projetos-der-Sistema-De-Informações\I.A\teste.sql<{{{><}}}>
+ExportSQLAddComments<|||>3<|||>0
+FileDialogEncoding_MainForm<|||>3<|||>5
+FilterPanel<|||>3<|||>0
+FindDialogReplaceHistory<|||>1<|||>SERIAL <{{{><}}}>EXISTS  ifhealth.<{{{><}}}>TABLE ifhealth.<{{{><}}}>'<{{{><}}}>INT<{{{><}}}>SERIAL<{{{><}}}>SERIAL PRIMARY KEY NOT NULL<{{{><}}}>"<{{{><}}}>s<{{{><}}}>serial<{{{><}}}>varchar(45) <{{{><}}}>text<{{{><}}}>
+FindDialogSearchHistory<|||>1<|||>"public".<{{{><}}}>"<{{{><}}}>`<{{{><}}}>INTEGER NOT NULL DEFAULT 'nextval(''"noticia_idNoticia_seq"''::regclass)'<{{{><}}}>SERIAL INT<{{{><}}}>EXISTS <{{{><}}}>INTEGER<{{{><}}}>'nextval(''"usuario_idUsuario_seq"''::regclass)'<{{{><}}}>'NULL::character varying'<{{{><}}}>'nextval(''"regulamento_idRegulamento_seq"''::regclass)'<{{{><}}}>DEFAULT<{{{><}}}>'nextval(''"noticia_idNoticia_seq"''::regclass)'<{{{><}}}>COLLATE utf8_bin<{{{><}}}>SERIAL NOT NULL<{{{><}}}>DEFAULT NULL<{{{><}}}> intAUTO_INCREMENT=17<{{{><}}}> NOT NULL AUTO_INCREMENT, <{{{><}}}>AUTO_INCREMENT=24<{{{><}}}> COLLATE utf8_bin DEFAULT NULL<{{{><}}}>serial<{{{><}}}>AUTO_INCREMENT<{{{><}}}>varchar(45) serial<{{{><}}}>text serial<{{{><}}}>CHARACTER SET utf8mb4 <{{{><}}}> ENGINE=InnoDB DEFAULT serial COLLATE=utf8_bin<{{{><}}}>CHARSET=utf8mb3<{{{><}}}>CHARACTER SET utf8mb4 serial<{{{><}}}>COLLATE utf8mb4_0900_ai_ci<{{{><}}}> NOT NULL<{{{><}}}>
+FontSize<|||>3<|||>11
+LastActiveSession<|||>1<|||>MySqlLocalHost
+LastSessions<|||>1<|||>MySqlLocalHost
+MainWinHeight<|||>3<|||>758
+MainWinLeft<|||>3<|||>-1360
+MainWinMaximized<|||>3<|||>1
+MainWinOnMonitor<|||>3<|||>0
+MainWinTop<|||>3<|||>538
+MainWinWidth<|||>3<|||>691
+MemoEditorMaximized<|||>3<|||>0
+MemoEditorWidth<|||>3<|||>130
+queryhelperswidth<|||>3<|||>20
+querymemoheight<|||>3<|||>520
+SessionManager_WindowHeight<|||>3<|||>590
+SessionManager_WindowLeft<|||>3<|||>-800
+SessionManager_WindowTop<|||>3<|||>75
+SQLFile0<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-07-13_23-52-02-171.sql
+SQLFile1<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-07-08_16-38-58-421.sql
+SQLFile2<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-07-08_16-30-51-935.sql
+SQLFile3<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-07-08_15-17-19-593.sql
+SQLFile4<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-07-13_23-46-16-066.sql
+SQLFile5<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-06-25_16-45-50-641.sql
+SQLFile6<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-05-11_16-35-37-173.sql
+SQLFile7<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-05-11_14-15-42-040.sql
+SQLFile8<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-05-05_22-35-22-948.sql
+SQLFile9<|||>1<|||>Z:\home\icaro\snap\heidisql-wine\3\heidisql-wine\Backups\query-tab-2022-03-27_13-45-54-438.sql
+sqloutheight<|||>3<|||>30
+TableTools_WindowHeight<|||>3<|||>702
+TableTools_WindowWidth<|||>3<|||>1222
+Servers\ceteia\CleartextPluginEnabled<|||>3<|||>0
+Servers\ceteia\Comment<|||>1<|||>
+Servers\ceteia\Compressed<|||>3<|||>0
+Servers\ceteia\ConnectCount<|||>3<|||>3
+Servers\ceteia\Databases<|||>1<|||>tabd
+Servers\ceteia\FullTableStatus<|||>3<|||>1
+Servers\ceteia\Host<|||>1<|||>200.128.100.19
+Servers\ceteia\IgnoreDatabasePattern<|||>1<|||>^pg_temp_\d
+Servers\ceteia\KeepAlive<|||>3<|||>20
+Servers\ceteia\LastConnect<|||>1<|||>2022-07-08 16:21:33
+Servers\ceteia\lastUsedDB<|||>1<|||>ifhealth
+Servers\ceteia\Library<|||>1<|||>libpq-10.dll
+Servers\ceteia\LocalTimeZone<|||>3<|||>0
+Servers\ceteia\LogFileDdl<|||>3<|||>0
+Servers\ceteia\LogFileDml<|||>3<|||>0
+Servers\ceteia\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\ceteia\LoginPrompt<|||>3<|||>0
+Servers\ceteia\NetType<|||>3<|||>8
+Servers\ceteia\Password<|||>1<|||>6A757E77783B393B3A9
+Servers\ceteia\Port<|||>1<|||>15432
+Servers\ceteia\QueryTimeout<|||>3<|||>30
+Servers\ceteia\RefusedCount<|||>3<|||>6
+Servers\ceteia\ServerVersion<|||>3<|||>130400
+Servers\ceteia\ServerVersionFull<|||>1<|||>PostgreSQL 13.4 on x86_64-pc-linux-musl, compiled by gcc (Alpine 10.3.1_git20210424) 10.3.1 20210424, 64-bit
+Servers\ceteia\SessionCreated<|||>1<|||>2022-07-08 15:17:28
+Servers\ceteia\SSHtunnelHost<|||>1<|||>
+Servers\ceteia\SSHtunnelHostPort<|||>3<|||>22
+Servers\ceteia\SSHtunnelPassword<|||>1<|||>9
+Servers\ceteia\SSHtunnelPort<|||>3<|||>3307
+Servers\ceteia\SSHtunnelPrivateKey<|||>1<|||>
+Servers\ceteia\SSHtunnelTimeout<|||>3<|||>4
+Servers\ceteia\SSHtunnelUser<|||>1<|||>
+Servers\ceteia\SSL_Active<|||>3<|||>0
+Servers\ceteia\SSL_CA<|||>1<|||>
+Servers\ceteia\SSL_Cert<|||>1<|||>
+Servers\ceteia\SSL_Cipher<|||>1<|||>
+Servers\ceteia\SSL_Key<|||>1<|||>
+Servers\ceteia\StartupScriptFilename<|||>1<|||>
+Servers\ceteia\TreeBackground<|||>3<|||>536870911
+Servers\ceteia\User<|||>1<|||>aluno
+Servers\ceteia\WindowsAuth<|||>3<|||>0
+Servers\ceteia\QueryHistory\1<|||>1<|||>2022-07-08 16:31:45|ifhealth|209|SET SCHEMA 'ifhealth';
+Servers\ceteia\QueryHistory\2<|||>1<|||>2022-07-08 16:40:36|ifhealth|201|<{{{><}}}>SET SCHEMA 'ifbaiano';
+Servers\ceteia\QueryHistory\3<|||>1<|||>2022-07-08 16:59:58|ifhealth|426|<{{{><}}}>CREATE TABLE IF NOT EXISTS  ifhealth."noticia" (<{{{><}}}>	"idNoticia" SERIAL ,<{{{><}}}>	"descricao" TEXT NULL DEFAULT NULL,<{{{><}}}>	PRIMARY KEY ("idNoticia")<{{{><}}}>);
+Servers\ceteia\QueryHistory\4<|||>1<|||>2022-07-08 16:55:44|ifhealth|336|<{{{><}}}>CREATE TABLE IF NOT EXISTS  ifhealth.regulamento (<{{{><}}}>	"idRegulamento" SERIAL  ,<{{{><}}}>	"descricao" TEXT NOT NULL,<{{{><}}}>	PRIMARY KEY ("idRegulamento")<{{{><}}}>);<{{{><}}}>
+Servers\ceteia\QueryHistory\5<|||>1<|||>2022-07-08 16:57:40|ifhealth|414|<{{{><}}}>SET SCHEMA 'ifhealth';<{{{><}}}>INSERT INTO "regulamento" ("idRegulamento", "descricao") VALUES<{{{><}}}>	(18, 'Não usar sandália '),<{{{><}}}>	(31, 'Não será permitido largar aparelhos fora do lugar original. assim que usá-los, coloque de volta no seu devido lugar.'),<{{{><}}}>	(32, 'Use máscara!');
+Servers\ceteia\QueryHistory\6<|||>1<|||>2022-07-08 16:59:53|ifhealth|204|<{{{><}}}>SET SCHEMA 'ifhealth';
+Servers\ceteia\QueryHistory\7<|||>1<|||>2022-07-08 17:00:10|ifhealth|208|<{{{><}}}>INSERT INTO "noticia" ("idNoticia", "descricao") VALUES<{{{><}}}>	(25, 'Caso seja esquecido algum objeto na academia, procure o CAE'),<{{{><}}}>	(26, 'Devido ao aumento dos casos do covid-19, a capacidade máxima da academia será de 5 alunos em cada horário.'),<{{{><}}}>	(27, 'A academia passa a funcionar apenas até ás 17:00 h'),<{{{><}}}>	(29, 'A academia manterá as normas de higiene contra o covid-19'),<{{{><}}}>	(30, 'Use máscara!!');
+Servers\heroku\CleartextPluginEnabled<|||>3<|||>0
+Servers\heroku\Comment<|||>1<|||>
+Servers\heroku\Compressed<|||>3<|||>0
+Servers\heroku\ConnectCount<|||>3<|||>19
+Servers\heroku\Databases<|||>1<|||>d9p5jd8s400ip5
+Servers\heroku\FavoriteObjects<|||>1<|||>public|public|disponibilidade<{{{><}}}>
+Servers\heroku\FullTableStatus<|||>3<|||>1
+Servers\heroku\Host<|||>1<|||>ec2-52-72-56-59.compute-1.amazonaws.com
+Servers\heroku\IgnoreDatabasePattern<|||>1<|||>^pg_temp_\d
+Servers\heroku\KeepAlive<|||>3<|||>20
+Servers\heroku\LastConnect<|||>1<|||>2022-07-08 15:19:45
+Servers\heroku\lastUsedDB<|||>1<|||>public
+Servers\heroku\Library<|||>1<|||>libpq-10.dll
+Servers\heroku\LocalTimeZone<|||>3<|||>0
+Servers\heroku\LogFileDdl<|||>3<|||>0
+Servers\heroku\LogFileDml<|||>3<|||>0
+Servers\heroku\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\heroku\LoginPrompt<|||>3<|||>0
+Servers\heroku\NetType<|||>3<|||>8
+Servers\heroku\Password<|||>1<|||>373336396466326865333334396766333268383B3964393867353633663A34356533376565363A333666643A3A6534653564386638323334333A6839683A67352
+Servers\heroku\Port<|||>1<|||>5432
+Servers\heroku\QueryTimeout<|||>3<|||>30
+Servers\heroku\RefusedCount<|||>3<|||>3
+Servers\heroku\ServerVersion<|||>3<|||>140400
+Servers\heroku\ServerVersionFull<|||>1<|||>PostgreSQL 14.4 (Ubuntu 14.4-1.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0, 64-bit
+Servers\heroku\SessionCreated<|||>1<|||>2022-06-16 11:59:35
+Servers\heroku\SSHtunnelHost<|||>1<|||>
+Servers\heroku\SSHtunnelHostPort<|||>3<|||>22
+Servers\heroku\SSHtunnelPassword<|||>1<|||>7
+Servers\heroku\SSHtunnelPort<|||>3<|||>3307
+Servers\heroku\SSHtunnelPrivateKey<|||>1<|||>
+Servers\heroku\SSHtunnelTimeout<|||>3<|||>4
+Servers\heroku\SSHtunnelUser<|||>1<|||>
+Servers\heroku\SSL_Active<|||>3<|||>0
+Servers\heroku\SSL_CA<|||>1<|||>
+Servers\heroku\SSL_Cert<|||>1<|||>
+Servers\heroku\SSL_Cipher<|||>1<|||>
+Servers\heroku\SSL_Key<|||>1<|||>
+Servers\heroku\StartupScriptFilename<|||>1<|||>
+Servers\heroku\TreeBackground<|||>3<|||>536870911
+Servers\heroku\User<|||>1<|||>zhxqqnaojtwbpu
+Servers\heroku\WindowsAuth<|||>3<|||>0
+Servers\heroku\public|agendamento\Sort<|||>1<|||>1_fkDisponibilidade|
+Servers\heroku\public|bloqueio\Sort<|||>1<|||>0_idDiscente|
+Servers\heroku\public|disponibilidade\Sort<|||>1<|||>0_idDisponibilidade|
+Servers\heroku\public|event\MemoEditorHighlighter_title<|||>1<|||>
+Servers\heroku\public|events\MemoEditorHighlighter_id<|||>1<|||>
+Servers\heroku\public|events\Sort<|||>1<|||>0_end|
+Servers\heroku\public|events\RecentFilters\1<|||>1<|||>"end" ILIKE '%o2022-06%'
+Servers\heroku\public|usuario\MemoEditorHighlighter_idUsuario<|||>1<|||>
+Servers\heroku\public|usuario\MemoEditorHighlighter_senha<|||>1<|||>
+Servers\heroku\public|usuario\Sort<|||>1<|||>0_idUsuario|
+Servers\heroku\public|usuario\RecentFilters\1<|||>1<|||>"idUsuario" = 54
+Servers\heroku\QueryHistory\1<|||>1<|||>2022-06-16 13:19:10|public|153|<{{{><}}}><{{{><}}}><{{{><}}}>INSERT INTO "public"."usuario" <{{{><}}}>("idusuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura") <{{{><}}}>VALUES ('3', 'admin', MD5('2222'), '22', '2', 'm', '2', '2');<{{{><}}}>
+Servers\heroku\QueryHistory\10<|||>1<|||>2022-06-16 13:37:32|public|301|<{{{><}}}><{{{><}}}>CREATE TABLE agendamento (<{{{><}}}>  idAgendamento int NOT NULL,<{{{><}}}>  fkTutor int ,<{{{><}}}>  fkDiscente int ,<{{{><}}}>  fkDisponibilidade int <{{{><}}}>);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\11<|||>1<|||>2022-06-16 13:38:17|public|156|<{{{><}}}>INSERT INTO agendamento (idAgendamento, fkTutor, fkDiscente, fkDisponibilidade) VALUES<{{{><}}}>(3, 12, 12, NULL),<{{{><}}}>(4, 12, 12, NULL),<{{{><}}}>(5, 12, 12, NULL),<{{{><}}}>(6, 12, 12, NULL),<{{{><}}}>(7, 44, 14, NULL),<{{{><}}}>(8, 44, 14, NULL),<{{{><}}}>(9, 44, 14, NULL),<{{{><}}}>(10, 44, 14, NULL),<{{{><}}}>(11, 44, 14, NULL),<{{{><}}}>(12, 44, 14, NULL),<{{{><}}}>(13, 44, 14, NULL),<{{{><}}}>(14, 44, 14, NULL),<{{{><}}}>(15, 44, 14, NULL),<{{{><}}}>(16, 44, 14, 22),<{{{><}}}>(17, 44, 14, 22),<{{{><}}}>(18, 44, 14, 22),<{{{><}}}>(19, 44, 14, 22),<{{{><}}}>(20, 44, 14, 22),<{{{><}}}>(21, 44, 14, 21),<{{{><}}}>(22, 44, 14, 21),<{{{><}}}>(23, 44, 14, 21);<{{{><}}}>
+Servers\heroku\QueryHistory\12<|||>1<|||>2022-06-16 13:38:34|public|187|<{{{><}}}>ALTER TABLE bloqueio<{{{><}}}>  ADD PRIMARY KEY (idBloqueio);<{{{><}}}>
+Servers\heroku\QueryHistory\13<|||>1<|||>2022-06-16 13:38:56|public|1476|<{{{><}}}><{{{><}}}>ALTER TABLE noticia<{{{><}}}>  ADD PRIMARY KEY (idNoticia);<{{{><}}}><{{{><}}}>--<{{{><}}}>-- Índices de tabela regulamento<{{{><}}}>--<{{{><}}}>ALTER TABLE regulamento<{{{><}}}>  ADD PRIMARY KEY (idRegulamento);<{{{><}}}><{{{><}}}>--<{{{><}}}>-- Índices de tabela usuario<{{{><}}}>--<{{{><}}}>ALTER TABLE usuario<{{{><}}}>  ADD PRIMARY KEY (idUsuario);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\14<|||>1<|||>2022-06-16 13:46:58|public|179|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>INSERT INTO usuario (idUsuario, usuario, senha, num_registro, peso, sexo, idade, altura, bloqueado, endereco, login, nivel) VALUES<{{{><}}}>	(255, 'admin', 'dba538946456c740662acaa8aa677094', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>	(244, 'discente', 'dba538946456c740662acaa8aa677094', '2222', NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>	(233, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'tutor', 2),<{{{><}}}>	(264, 'ggggggggg', 'ba248c985ace94863880921d8900c53f', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'ggg', 2);<{{{><}}}>
+Servers\heroku\QueryHistory\15<|||>1<|||>2022-06-16 14:06:10|public|1468|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM usuario WHERE login = 'admin' and senha = MD5('ifbaiano');
+Servers\heroku\QueryHistory\16<|||>1<|||>2022-06-16 14:51:57|public|146|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM "public"."usuario" WHERE "idUsuario" = 54<{{{><}}}> LIMIT 1000;
+Servers\heroku\QueryHistory\17<|||>1<|||>2022-06-16 14:47:35|public|150|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM usuario WHERE 'idUsuario' = '255';
+Servers\heroku\QueryHistory\18<|||>1<|||>2022-06-16 14:52:15|public|169|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM "public"."usuario" WHERE "idUsuario" = 54<{{{><}}}> ;
+Servers\heroku\QueryHistory\19<|||>1<|||>2022-06-16 14:52:25|public|185|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM "public"."usuario" WHERE "idUsuario" = 54;
+Servers\heroku\QueryHistory\2<|||>1<|||>2022-06-16 13:36:16|public|608|<{{{><}}}>--<{{{><}}}>-- Estrutura para tabela disponibilidade<{{{><}}}>--<{{{><}}}><{{{><}}}>CREATE TABLE disponibilidade (<{{{><}}}>  idDisponibilidade int,<{{{><}}}>  dia date ,<{{{><}}}>  horaInicial time ,<{{{><}}}>  horaFinal time ,<{{{><}}}>  idTutor int ,<{{{><}}}>  livre int<{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\20<|||>1<|||>2022-06-16 14:52:35|public|160|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM "public"."usuario" WHERE "idUsuario" = 255;
+Servers\heroku\QueryHistory\21<|||>1<|||>2022-06-16 14:52:51|public|148|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM "usuario" WHERE "idUsuario" = 255;
+Servers\heroku\QueryHistory\22<|||>1<|||>2022-06-16 14:52:58|public|174|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>SELECT * FROM usuario WHERE "idUsuario" = 255;
+Servers\heroku\QueryHistory\23<|||>1<|||>2022-06-16 15:43:22|public|208|<{{{><}}}><{{{><}}}>CREATE TABLE "usuario1" (<{{{><}}}>	"idUsuario" Serial NOT NULL,<{{{><}}}>	"usuario" VARCHAR(45) NULL DEFAULT NULL,<{{{><}}}>	"senha" VARCHAR(45) NULL DEFAULT NULL,<{{{><}}}>	"num_registro" VARCHAR(50) NULL DEFAULT NULL,<{{{><}}}>	"peso" DOUBLE PRECISION NULL DEFAULT NULL,<{{{><}}}>	"sexo" VARCHAR(20) NULL DEFAULT NULL,<{{{><}}}>	"idade" INTEGER NULL DEFAULT NULL,<{{{><}}}>	"altura" DOUBLE PRECISION NULL DEFAULT NULL,<{{{><}}}>	"bloqueado" INTEGER NULL DEFAULT NULL,<{{{><}}}>	"endereco" VARCHAR(100) NULL DEFAULT NULL,<{{{><}}}>	"login" VARCHAR(45) NULL DEFAULT NULL,<{{{><}}}>	"nivel" INTEGER NULL DEFAULT NULL,<{{{><}}}>	PRIMARY KEY ("idUsuario")<{{{><}}}>)<{{{><}}}>;<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\24<|||>1<|||>2022-06-16 15:48:46|public|174|<{{{><}}}>CREATE TABLE "agendamento" (<{{{><}}}>  "idAgendamento" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "fkTutor" int DEFAULT NULL,<{{{><}}}>  "fkDiscente" int DEFAULT NULL,<{{{><}}}>  "fkDisponibilidade" int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\25<|||>1<|||>2022-06-16 15:51:10|public|261|<{{{><}}}>INSERT INTO "agendamento" ("idAgendamento", "fkTutor", "fkDiscente", "fkDisponibilidade") VALUES<{{{><}}}>(3, 12, 12, NULL),<{{{><}}}>(4, 12, 12, NULL),<{{{><}}}>(5, 12, 12, NULL),<{{{><}}}>(6, 12, 12, NULL),<{{{><}}}>(7, 44, 14, NULL),<{{{><}}}>(8, 44, 14, NULL),<{{{><}}}>(9, 44, 14, NULL),<{{{><}}}>(10, 44, 14, NULL),<{{{><}}}>(11, 44, 14, NULL),<{{{><}}}>(12, 44, 14, NULL),<{{{><}}}>(13, 44, 14, NULL),<{{{><}}}>(14, 44, 14, NULL),<{{{><}}}>(15, 44, 14, NULL),<{{{><}}}>(16, 44, 14, 22),<{{{><}}}>(17, 44, 14, 22),<{{{><}}}>(18, 44, 14, 22),<{{{><}}}>(19, 44, 14, 22),<{{{><}}}>(20, 44, 14, 22),<{{{><}}}>(21, 44, 14, 21),<{{{><}}}>(22, 44, 14, 21),<{{{><}}}>(23, 44, 14, 21);<{{{><}}}>
+Servers\heroku\QueryHistory\26<|||>1<|||>2022-06-16 15:51:22|public|217|<{{{><}}}>CREATE TABLE "bloqueio" (<{{{><}}}>  "idBloqueio" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "idDiscente" int DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL<{{{><}}}>);
+Servers\heroku\QueryHistory\27<|||>1<|||>2022-06-16 15:51:37|public|313|<{{{><}}}>CREATE TABLE "disponibilidade" (<{{{><}}}>  "idDisponibilidade" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "dia" date DEFAULT NULL,<{{{><}}}>  "horaInicial" time DEFAULT NULL,<{{{><}}}>  "horaFinal" time DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL,<{{{><}}}>  "livre" INT DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\28<|||>1<|||>2022-06-16 15:51:44|public|259|<{{{><}}}>INSERT INTO "disponibilidade" ("idDisponibilidade", "dia", "horaInicial", "horaFinal", "idTutor", "livre") VALUES<{{{><}}}>(1, '2022-05-26', '00:54:15', NULL, 44, 1),<{{{><}}}>(2, '2022-05-10', '03:18:00', NULL, 12, NULL),<{{{><}}}>(3, '2022-05-10', '03:18:00', NULL, 12, 1),<{{{><}}}>(4, '2022-05-18', '04:20:00', NULL, 12, 1),<{{{><}}}>(5, '2022-05-20', '04:28:00', NULL, 12, 1),<{{{><}}}>(6, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(7, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(8, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(9, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(10, '2022-05-04', '02:52:00', NULL, 12, 2),<{{{><}}}>(11, '2022-05-04', '02:52:00', NULL, 12, 2),<{{{><}}}>(12, '2022-05-12', '01:57:00', NULL, 12, 2),<{{{><}}}>(13, '2022-05-12', '01:57:00', NULL, 12, 2),<{{{><}}}>(14, '2022-05-11', '04:54:00', NULL, 53, 2),<{{{><}}}>(15, '2022-05-11', '04:54:00', NULL, 12, 2),<{{{><}}}>(16, '2022-05-11', '03:59:00', NULL, 12, 2),<{{{><}}}>(17, '2022-05-04', '03:56:00', NULL, 12, 2),<{{{><}}}>(18, '2022-05-04', '03:56:00', NULL, 12, 2),<{{{><}}}>(19, '2022-05-04', '11:10:00', NULL, 56, 2),<{{{><}}}>(20, '2022-05-17', '15:58:00', NULL, 12, 2),<{{{><}}}>(21, '2022-06-03', '08:58:00', '20:39:59', 44, 1),<{{{><}}}>(22, '2022-06-03', '08:32:00', '08:36:00', 44, 1),<{{{><}}}>(23, '2022-06-03', '08:32:00', '08:36:00', 12, 1);<{{{><}}}>
+Servers\heroku\QueryHistory\29<|||>1<|||>2022-06-16 15:52:01|public|322|<{{{><}}}>CREATE TABLE "noticia" (<{{{><}}}>  "idNoticia" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "descricao" text<{{{><}}}>);
+Servers\heroku\QueryHistory\3<|||>1<|||>2022-06-16 13:36:25|public|223|<{{{><}}}>INSERT INTO disponibilidade (idDisponibilidade, dia, horaInicial, horaFinal, idTutor, livre) VALUES<{{{><}}}>(1, '2022-05-26', '00:54:15', NULL, 44, 1),<{{{><}}}>(2, '2022-05-10', '03:18:00', NULL, 12, NULL),<{{{><}}}>(3, '2022-05-10', '03:18:00', NULL, 12, 1),<{{{><}}}>(4, '2022-05-18', '04:20:00', NULL, 12, 1),<{{{><}}}>(5, '2022-05-20', '04:28:00', NULL, 12, 1),<{{{><}}}>(6, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(7, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(8, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(9, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(10, '2022-05-04', '02:52:00', NULL, 12, 2),<{{{><}}}>(11, '2022-05-04', '02:52:00', NULL, 12, 2),<{{{><}}}>(12, '2022-05-12', '01:57:00', NULL, 12, 2),<{{{><}}}>(13, '2022-05-12', '01:57:00', NULL, 12, 2),<{{{><}}}>(14, '2022-05-11', '04:54:00', NULL, 53, 2),<{{{><}}}>(15, '2022-05-11', '04:54:00', NULL, 12, 2),<{{{><}}}>(16, '2022-05-11', '03:59:00', NULL, 12, 2),<{{{><}}}>(17, '2022-05-04', '03:56:00', NULL, 12, 2),<{{{><}}}>(18, '2022-05-04', '03:56:00', NULL, 12, 2),<{{{><}}}>(19, '2022-05-04', '11:10:00', NULL, 56, 2),<{{{><}}}>(20, '2022-05-17', '15:58:00', NULL, 12, 2),<{{{><}}}>(21, '2022-06-03', '08:58:00', '20:39:59', 44, 1),<{{{><}}}>(22, '2022-06-03', '08:32:00', '08:36:00', 44, 1),<{{{><}}}>(23, '2022-06-03', '08:32:00', '08:36:00', 12, 1);
+Servers\heroku\QueryHistory\30<|||>1<|||>2022-06-16 15:52:06|public|235|<{{{><}}}>INSERT INTO "noticia" ("idNoticia", "descricao") VALUES<{{{><}}}>(24, 'eeeeeeeeeeeeeee'),<{{{><}}}>(25, 'eeeeeeeeeee'),<{{{><}}}>(28, 'teste');<{{{><}}}>
+Servers\heroku\QueryHistory\31<|||>1<|||>2022-06-16 15:52:10|public|249|<{{{><}}}>CREATE TABLE "regulamento" (<{{{><}}}>  "idRegulamento" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "descricao" text NOT NULL<{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\32<|||>1<|||>2022-06-16 15:52:14|public|209|<{{{><}}}>INSERT INTO "regulamento" ("idRegulamento", "descricao") VALUES<{{{><}}}>(16, 'teste');
+Servers\heroku\QueryHistory\33<|||>1<|||>2022-06-16 15:52:50|public|176|<{{{><}}}>CREATE TABLE "usuario" (<{{{><}}}>  "idUsuario" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "usuario" varchar(45)  DEFAULT NULL,<{{{><}}}>  "senha" varchar(45)  DEFAULT NULL,<{{{><}}}>  "num_registro" varchar(50) DEFAULT NULL,<{{{><}}}>  "peso" float DEFAULT NULL,<{{{><}}}>  "sexo" varchar(20) DEFAULT NULL,<{{{><}}}>  "idade" int DEFAULT NULL,<{{{><}}}>  "altura" float DEFAULT NULL,<{{{><}}}>  "bloqueado" INT DEFAULT NULL,<{{{><}}}>  "endereco" varchar(100) DEFAULT NULL,<{{{><}}}>  "login" varchar(45)  DEFAULT NULL,<{{{><}}}>  "nivel" int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\34<|||>1<|||>2022-06-16 15:52:56|public|336|<{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>(12, 'admin', '934b535800b1cba8f96a5d72f72f1611', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>(14, 'discente', 'dba538946456c740662acaa8aa677094', '2222', NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>(44, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>(45, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 2),<{{{><}}}>(46, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 3),<{{{><}}}>(52, 'Gili', '3a9929d7b57122c12902951d8c61122b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'gili', 2),<{{{><}}}>(53, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(54, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(55, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(56, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(57, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(58, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(59, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(60, 'tg', 'e3fd2afa75b6e2e40021c7054361fbf4', 'ert', NULL, NULL, NULL, NULL, NULL, NULL, 'rt', 3),<{{{><}}}>(61, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(62, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(63, '23', '6364d3f0f495b6ab9dcf8d3b5c6e0b01', '32', NULL, NULL, NULL, NULL, NULL, NULL, '23', 3);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\35<|||>1<|||>2022-06-16 15:53:27|public|453|<{{{><}}}>ALTER TABLE "disponibilidade"<{{{><}}}>  ADD CONSTRAINT "FK_disponibilidade_usuario" FOREIGN KEY ("idTutor") REFERENCES "usuario" ("idUsuario");<{{{><}}}>COMMIT;
+Servers\heroku\QueryHistory\36<|||>1<|||>2022-06-16 15:53:31|public|163|<{{{><}}}>ALTER TABLE "agendamento"<{{{><}}}>  ADD CONSTRAINT "fk_Agendamento_idDiscente" FOREIGN KEY ("fkDiscente") REFERENCES "usuario" ("idUsuario"),<{{{><}}}>  ADD CONSTRAINT "fk_Agendamento_idDisponivel" FOREIGN KEY ("fkDisponibilidade") REFERENCES "disponibilidade" ("idDisponibilidade"),<{{{><}}}>  ADD CONSTRAINT "fk_Agendamento_idTutor" FOREIGN KEY ("fkTutor") REFERENCES "usuario" ("idUsuario");<{{{><}}}>
+Servers\heroku\QueryHistory\37<|||>1<|||>2022-06-24 14:57:48||195|DROP SCHEMA "ifhealth" CASCADE ;
+Servers\heroku\QueryHistory\38<|||>1<|||>2022-06-25 09:52:19|public|176|<{{{><}}}>UPDATE "public"."disponibilidade" <{{{><}}}>SET "end"='2022-06-25 09:51:45';<{{{><}}}>
+Servers\heroku\QueryHistory\39<|||>1<|||>2022-06-25 09:52:38|public|149|<{{{><}}}>UPDATE "public"."disponibilidade" <{{{><}}}>SET "start"='2022-06-29 09:51:45';<{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\4<|||>1<|||>2022-06-16 13:36:29|public|383|<{{{><}}}>CREATE TABLE noticia (<{{{><}}}>  idNoticia int NOT NULL,<{{{><}}}>  descricao text<{{{><}}}>);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\40<|||>1<|||>2022-06-25 09:53:56|public|146|<{{{><}}}><{{{><}}}><{{{><}}}>UPDATE "public"."disponibilidade" SET "color"='green' WHERE  "idDisponibilidade" BETWEEN 1 AND 10;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\41<|||>1<|||>2022-06-25 09:54:28|public|147|<{{{><}}}>UPDATE "public"."disponibilidade" SET "color"='green' WHERE  "idDisponibilidade" BETWEEN 1 AND 30;<{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\42<|||>1<|||>2022-06-25 09:54:48|public|156|<{{{><}}}>UPDATE "public"."disponibilidade" SET "color"='yellow' WHERE  "idDisponibilidade" BETWEEN 30 AND 100;<{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\43<|||>1<|||>2022-06-25 09:55:42|public|145|<{{{><}}}><{{{><}}}>UPDATE "public"."disponibilidade" SET "title"='teste';<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\44<|||>1<|||>2022-06-25 10:26:56|public|189|<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>CREATE TABLE "events" (<{{{><}}}>	"id" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>	"title" VARCHAR(90) NULL DEFAULT NULL,<{{{><}}}>	"description" TEXT NULL DEFAULT NULL,<{{{><}}}>	"color" VARCHAR(10) NULL DEFAULT NULL,<{{{><}}}>	"start" TIMESTAMP NULL DEFAULT NULL,<{{{><}}}>	"end" TIMESTAMP NULL DEFAULT NULL<{{{><}}}>)<{{{><}}}>;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\45<|||>1<|||>2022-06-25 10:28:20|public|141|<{{{><}}}>INSERT INTO "public"."events" ("title", "description", "color", "start", "end") <{{{><}}}>VALUES ('testte', 'teste', 'red', '2022-06-25 10:27:41', '2022-06-25 10:27:43');<{{{><}}}>
+Servers\heroku\QueryHistory\46<|||>1<|||>2022-06-25 10:28:34|public|142|<{{{><}}}>INSERT INTO "public"."events" ("title", "description", "color", "start", "end") <{{{><}}}>VALUES ('testte', 'teste', 'green', '2022-06-25 10:27:41', '2022-06-25 10:27:43');
+Servers\heroku\QueryHistory\47<|||>1<|||>2022-06-25 12:46:41|public|140|<{{{><}}}>DELETE FROM usuario WHERE 'idUsuario' = '84' ;<{{{><}}}>
+Servers\heroku\QueryHistory\48<|||>1<|||>2022-06-25 14:16:40|public|151|<{{{><}}}>SELECT * FROM bloqueio AS b<{{{><}}}>        INNER JOIN usuario AS u<{{{><}}}>        ON b."idDiscente" = u."idUsuario"<{{{><}}}>        WHERE b.bloqueio = 'false'<{{{><}}}>
+Servers\heroku\QueryHistory\49<|||>1<|||>2022-06-25 14:34:01|public|336|<{{{><}}}>SELECT * FROM bloqueio AS b<{{{><}}}>        INNER JOIN usuario AS u<{{{><}}}>        ON b."idDiscente" = u."idUsuario"<{{{><}}}>        WHERE b.bloqueio = 'false'
+Servers\heroku\QueryHistory\5<|||>1<|||>2022-06-16 13:36:33|public|155|<{{{><}}}>INSERT INTO noticia (idNoticia, descricao) VALUES<{{{><}}}>(24, 'eeeeeeeeeeeeeee'),<{{{><}}}>(25, 'eeeeeeeeeee'),<{{{><}}}>(28, 'teste');
+Servers\heroku\QueryHistory\50<|||>1<|||>2022-06-25 15:41:17|public|151|<{{{><}}}>INSERT INTO "public"."events" ("start", "end") <{{{><}}}>VALUES ('2022-06-25 15:40:27', '2022-06-25 15:40:28');<{{{><}}}>
+Servers\heroku\QueryHistory\51<|||>1<|||>2022-06-25 16:54:53|public|400|<{{{><}}}>-- --------------------------------------------------------<{{{><}}}><{{{><}}}>--<{{{><}}}>-- Estrutura para tabela "agendamento"<{{{><}}}>--<{{{><}}}><{{{><}}}>CREATE TABLE "agendamento" (<{{{><}}}>  "idAgendamento" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "fkTutor" int DEFAULT NULL,<{{{><}}}>  "fkDiscente" int DEFAULT NULL,<{{{><}}}>  "fkDisponibilidade" int DEFAULT NULL<{{{><}}}>);      <{{{><}}}><{{{><}}}>--<{{{><}}}>-- Despejando dados para a tabela "agendamento"<{{{><}}}>--<{{{><}}}><{{{><}}}>INSERT INTO "agendamento" ("idAgendamento", "fkTutor", "fkDiscente", "fkDisponibilidade") VALUES<{{{><}}}>(3, 12, 12, NULL),<{{{><}}}>(4, 12, 12, NULL),<{{{><}}}>(5, 12, 12, NULL),<{{{><}}}>(6, 12, 12, NULL),<{{{><}}}>(7, 44, 14, NULL),<{{{><}}}>(8, 44, 14, NULL),<{{{><}}}>(9, 44, 14, NULL),<{{{><}}}>(10, 44, 14, NULL),<{{{><}}}>(11, 44, 14, NULL),<{{{><}}}>(12, 44, 14, NULL),<{{{><}}}>(13, 44, 14, NULL),<{{{><}}}>(14, 44, 14, NULL),<{{{><}}}>(15, 44, 14, NULL),<{{{><}}}>(16, 44, 14, 22),<{{{><}}}>(17, 44, 14, 22),<{{{><}}}>(18, 44, 14, 22),<{{{><}}}>(19, 44, 14, 22),<{{{><}}}>(20, 44, 14, 22),<{{{><}}}>(21, 44, 14, 21),<{{{><}}}>(22, 44, 14, 21),<{{{><}}}>(23, 44, 14, 21);<{{{><}}}>
+Servers\heroku\QueryHistory\52<|||>1<|||>2022-06-25 17:01:02|public|322|<{{{><}}}><{{{><}}}>CREATE TABLE "usuario" (<{{{><}}}>  "idUsuario" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "usuario" varchar(45)  DEFAULT NULL,<{{{><}}}>  "senha" varchar(45)  DEFAULT NULL,<{{{><}}}>  "num_registro" varchar(50) DEFAULT NULL,<{{{><}}}>  "peso" float DEFAULT NULL,<{{{><}}}>  "sexo" varchar(20) DEFAULT NULL,<{{{><}}}>  "idade" int DEFAULT NULL,<{{{><}}}>  "altura" float DEFAULT NULL,<{{{><}}}>  "bloqueado" INT DEFAULT NULL,<{{{><}}}>  "endereco" varchar(100) DEFAULT NULL,<{{{><}}}>  "login" varchar(45)  DEFAULT NULL,<{{{><}}}>  "nivel" int DEFAULT NULL<{{{><}}}>);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\53<|||>1<|||>2022-06-25 17:04:22|public|594|<{{{><}}}>-- --------------------------------------------------------<{{{><}}}><{{{><}}}>--<{{{><}}}>-- Estrutura para tabela "agendamento"<{{{><}}}>--<{{{><}}}><{{{><}}}>CREATE TABLE "agendamento" (<{{{><}}}>  "idAgendamento" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "fkTutor" int DEFAULT NULL,<{{{><}}}>  "fkDiscente" int DEFAULT NULL,<{{{><}}}>  "fkDisponibilidade" int DEFAULT NULL<{{{><}}}>);      <{{{><}}}><{{{><}}}>--<{{{><}}}>-- Despejando dados para a tabela "agendamento"<{{{><}}}>--<{{{><}}}><{{{><}}}>INSERT INTO "agendamento" ("idAgendamento", "fkTutor", "fkDiscente", "fkDisponibilidade") VALUES<{{{><}}}>(16, 44, 14, 22),<{{{><}}}>(17, 44, 14, 22),<{{{><}}}>(18, 44, 14, 22),<{{{><}}}>(19, 44, 14, 22),<{{{><}}}>(20, 44, 14, 22),<{{{><}}}>(21, 44, 14, 21),<{{{><}}}>(22, 44, 14, 21),<{{{><}}}>(23, 44, 14, 21);<{{{><}}}><{{{><}}}>-- --------------------------------------------------------<{{{><}}}><{{{><}}}>--<{{{><}}}>-- Estrutura para tabela "bloqueio"<{{{><}}}>--<{{{><}}}><{{{><}}}>CREATE TABLE "bloqueio" (<{{{><}}}>  "idBloqueio" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "idDiscente" int DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\54<|||>1<|||>2022-06-25 17:04:44|public|468|<{{{><}}}><{{{><}}}>CREATE TABLE "disponibilidade" (<{{{><}}}>  "idDisponibilidade" SERIAL PRIMARY KEY NOT NULL,<{{{><}}}>  "dia" date DEFAULT NULL,<{{{><}}}>  "horaInicial" time DEFAULT NULL,<{{{><}}}>  "horaFinal" time DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL,<{{{><}}}>  "livre" INT DEFAULT NULL<{{{><}}}>);<{{{><}}}><{{{><}}}>--<{{{><}}}>-- Despejando dados para a tabela "disponibilidade"<{{{><}}}>--<{{{><}}}><{{{><}}}>INSERT INTO "disponibilidade" ("idDisponibilidade", "dia", "horaInicial", "horaFinal", "idTutor", "livre") VALUES<{{{><}}}>(1, '2022-05-26', '00:54:15', NULL, 44, 1),<{{{><}}}>(2, '2022-05-10', '03:18:00', NULL, 12, NULL),<{{{><}}}>(3, '2022-05-10', '03:18:00', NULL, 12, 1),<{{{><}}}>(4, '2022-05-18', '04:20:00', NULL, 12, 1),<{{{><}}}>(5, '2022-05-20', '04:28:00', NULL, 12, 1),<{{{><}}}>(6, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(7, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(8, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(9, '2022-05-20', '04:28:00', NULL, 12, 2),<{{{><}}}>(10, '2022-05-04', '02:52:00', NULL, 12, 2),<{{{><}}}>(11, '2022-05-04', '02:52:00', NULL, 12, 2),<{{{><}}}>(12, '2022-05-12', '01:57:00', NULL, 12, 2),<{{{><}}}>(13, '2022-05-12', '01:57:00', NULL, 12, 2),<{{{><}}}>(14, '2022-05-11', '04:54:00', NULL, 53, 2),<{{{><}}}>(15, '2022-05-11', '04:54:00', NULL, 12, 2),<{{{><}}}>(16, '2022-05-11', '03:59:00', NULL, 12, 2),<{{{><}}}>(17, '2022-05-04', '03:56:00', NULL, 12, 2),<{{{><}}}>(18, '2022-05-04', '03:56:00', NULL, 12, 2),<{{{><}}}>(19, '2022-05-04', '11:10:00', NULL, 56, 2),<{{{><}}}>(20, '2022-05-17', '15:58:00', NULL, 12, 2),<{{{><}}}>(21, '2022-06-03', '08:58:00', '20:39:59', 44, 1),<{{{><}}}>(22, '2022-06-03', '08:32:00', '08:36:00', 44, 1),<{{{><}}}>(23, '2022-06-03', '08:32:00', '08:36:00', 12, 1);<{{{><}}}><{{{><}}}>-- --------------------------------------------------------<{{{><}}}>
+Servers\heroku\QueryHistory\55<|||>1<|||>2022-06-25 17:04:58|public|143|<{{{><}}}><{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>(12, 'admin', '934b535800b1cba8f96a5d72f72f1611', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>(14, 'discente', 'dba538946456c740662acaa8aa677094', '2222', NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>(44, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>(45, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 2),<{{{><}}}>(46, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 3),<{{{><}}}>(52, 'Gili', '3a9929d7b57122c12902951d8c61122b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'gili', 2),<{{{><}}}>(53, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(54, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(55, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(56, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(57, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(58, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(59, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(60, 'tg', 'e3fd2afa75b6e2e40021c7054361fbf4', 'ert', NULL, NULL, NULL, NULL, NULL, NULL, 'rt', 3),<{{{><}}}>(61, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(62, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(63, '23', '6364d3f0f495b6ab9dcf8d3b5c6e0b01', '32', NULL, NULL, NULL, NULL, NULL, NULL, '23', 3);<{{{><}}}>
+Servers\heroku\QueryHistory\56<|||>1<|||>2022-06-25 17:05:46|public|300|<{{{><}}}>ALTER TABLE "agendamento"<{{{><}}}>  ADD CONSTRAINT "fk_Agendamento_idDiscente" <{{{><}}}>  FOREIGN KEY ("fkDiscente") <{{{><}}}>  REFERENCES "usuario" ("idUsuario")<{{{><}}}>  ON DELETE CASCADE,<{{{><}}}>  <{{{><}}}>  ADD CONSTRAINT "fk_Agendamento_idDisponivel" <{{{><}}}>  FOREIGN KEY ("fkDisponibilidade") <{{{><}}}>  REFERENCES "disponibilidade" ("idDisponibilidade")<{{{><}}}>  ON DELETE CASCADE,<{{{><}}}>  ADD CONSTRAINT "fk_Agendamento_idTutor" <{{{><}}}>  FOREIGN KEY ("fkTutor") <{{{><}}}>  REFERENCES "usuario" ("idUsuario")<{{{><}}}>  ON DELETE CASCADE;<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\57<|||>1<|||>2022-06-25 17:06:04|public|540|<{{{><}}}>ALTER TABLE "disponibilidade"<{{{><}}}>  ADD CONSTRAINT "FK_disponibilidade_usuario" <{{{><}}}>  FOREIGN KEY ("idTutor") <{{{><}}}>  REFERENCES "usuario" ("idUsuario")<{{{><}}}>  ON DELETE CASCADE;<{{{><}}}>COMMIT;<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\58<|||>1<|||>2022-06-25 17:11:00|public|433|<{{{><}}}>/*!40000 ALTER TABLE "usuario" DISABLE KEYS */;<{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>	(161, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(612, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(641, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(616, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(618, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(619, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(714, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(716, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(112, 'admin', 'dba538946456c740662acaa8aa677094', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>	(718, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(719, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(810, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(813, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(812, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(811, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(715, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(711, 'icaro', '443e41d6c89eddc57b47e7f1630b43cf', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(710, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(617, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(1163, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(172, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(177, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(165, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(185, 'Ana Paula ', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Rsd', 3),<{{{><}}}>	(151, 'discente', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>	(152, 'Tutor', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'tutor', 2);<{{{><}}}>/*!40000 ALTER TABLE "usuario" ENABLE KEYS */;<{{{><}}}>
+Servers\heroku\QueryHistory\59<|||>1<|||>2022-06-25 17:16:39|public|569|<{{{><}}}>/*!40000 ALTER TABLE "usuario" DISABLE KEYS */;<{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>	(161, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(612, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(641, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(616, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(618, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(619, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(714, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(716, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(718, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(719, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(810, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 2),<{{{><}}}>	(813, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(812, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(811, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(715, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(711, 'icaro', '443e41d6c89eddc57b47e7f1630b43cf', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(710, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(617, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(1163, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(172, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(177, 'teste', '698dc19d489c4e4db73e28a713eab07b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'teste', 3),<{{{><}}}>	(165, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 3),<{{{><}}}>	(185, 'Ana Paula ', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Rsd', 3),<{{{><}}}>	(151, 'discente', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>	(152, 'Tutor', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'tutor', 2);<{{{><}}}>/*!40000 ALTER TABLE "usuario" ENABLE KEYS */;<{{{><}}}>
+Servers\heroku\QueryHistory\6<|||>1<|||>2022-06-16 13:36:36|public|328|<{{{><}}}>CREATE TABLE regulamento (<{{{><}}}>  idRegulamento int NOT NULL,<{{{><}}}>  descricao text NOT NULL<{{{><}}}>);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\60<|||>1<|||>2022-06-25 17:16:57|public|362|<{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>(122, 'admin', '934b535800b1cba8f96a5d72f72f1611', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>(14, 'discente', 'dba538946456c740662acaa8aa677094', '2222', NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>(44, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>(45, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 2),<{{{><}}}>(46, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 3),<{{{><}}}>(52, 'Gili', '3a9929d7b57122c12902951d8c61122b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'gili', 2),<{{{><}}}>(53, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(54, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(55, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(56, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(57, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(58, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(59, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(60, 'tg', 'e3fd2afa75b6e2e40021c7054361fbf4', 'ert', NULL, NULL, NULL, NULL, NULL, NULL, 'rt', 3),<{{{><}}}>(61, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(62, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(63, '23', '6364d3f0f495b6ab9dcf8d3b5c6e0b01', '32', NULL, NULL, NULL, NULL, NULL, NULL, '23', 3);<{{{><}}}><{{{><}}}>--
+Servers\heroku\QueryHistory\61<|||>1<|||>2022-06-25 17:17:50|public|437|<{{{><}}}>/*!40000 ALTER TABLE "regulamento" DISABLE KEYS */;<{{{><}}}>INSERT INTO "regulamento" ("descricao") VALUES<{{{><}}}>	('Proibido uso Bebidas Alcoolicas'),<{{{><}}}>	('Uso Obrigatório de mascara em locais fechados.'),<{{{><}}}>	('Não usar sandália ');<{{{><}}}>/*!40000 ALTER TABLE "regulamento" ENABLE KEYS */;<{{{><}}}>
+Servers\heroku\QueryHistory\62<|||>1<|||>2022-06-25 17:18:11|public|469|<{{{><}}}>/*!40000 ALTER TABLE "noticia" DISABLE KEYS */;<{{{><}}}>INSERT INTO "noticia" ("descricao") VALUES<{{{><}}}>	('Instrutor Roberto está doente, dado isso ele não poderá atender nessa semana!'),<{{{><}}}>	('Tamas cuidado com higienização!'),<{{{><}}}>	('Use máscara ');<{{{><}}}>/*!40000 ALTER TABLE "noticia" ENABLE KEYS */;<{{{><}}}>
+Servers\heroku\QueryHistory\63<|||>1<|||>2022-06-25 17:27:30|public|438|<{{{><}}}><{{{><}}}>/*!40000 ALTER TABLE "bloqueio" DISABLE KEYS */;<{{{><}}}>INSERT INTO "bloqueio" ("idBloqueio", "idDiscente", "idTutor", "tempo", "bloqueio") VALUES<{{{><}}}>	(4, 152, 152, '7', 'true'),<{{{><}}}>	(3, 61, 152, '6', 'true'),<{{{><}}}>	(2, 61, 152, '1 dia', 'true'),<{{{><}}}>	(1, 61, 152, '2 dias', 'true'),<{{{><}}}>	(10, 44, 152, '1', 'true'),<{{{><}}}>	(11, 44, 152, '1', 'false'),<{{{><}}}>	(12, 44, 152, '1', 'false'),<{{{><}}}>	(6, 44, 152, '6', 'true'),<{{{><}}}>	(7, 44, 152, '6', 'true'),<{{{><}}}>	(8, 44, 152, '1', 'true'),<{{{><}}}>	(9, 44, 152, '1', 'true'),<{{{><}}}>	(5, 52, 152, 'sempre', 'true');<{{{><}}}>/*!40000 ALTER TABLE "bloqueio" ENABLE KEYS */;<{{{><}}}>
+Servers\heroku\QueryHistory\64<|||>1<|||>2022-06-25 17:32:52|public|431|<{{{><}}}>/*!40000 ALTER TABLE "events" DISABLE KEYS */;<{{{><}}}>INSERT INTO "events" ("id", "title", "description", "color", "start", "end") VALUES<{{{><}}}>	(6, 'testte', 'teste', 'red', '2022-06-25 10:27:41', '2022-06-25 10:27:43'),<{{{><}}}>	(9, 'testte', 'teste', 'green', '2022-06-25 10:27:41', '2022-06-28 10:27:43'),<{{{><}}}>	(8, 'testte', 'teste', 'green', '2022-06-25 10:27:41', '2022-06-29 10:27:43'),<{{{><}}}>	(1, 'testte', 'teste', 'red', '2022-06-22 10:27:41', '2022-06-25 10:27:43'),<{{{><}}}>	(3, 'testte', 'teste', 'red', '2022-06-21 10:27:41', '2022-06-25 10:27:43'),<{{{><}}}>	(4, 'testte', 'teste', 'red', '2022-06-24 10:27:41', '2022-06-25 10:27:43'),<{{{><}}}>	(10, 'testte', 'teste', 'green', '2022-06-22 10:27:41', '2022-06-27 10:27:43'),<{{{><}}}>	(7, 'testte', 'teste', 'red', '2022-06-21 10:27:41', '2022-06-23 10:27:43'),<{{{><}}}>	(5, 'testte', 'teste', 'red', '2022-06-21 10:27:41', '2022-06-25 10:27:43'),<{{{><}}}>	(11, 'testte', 'teste', 'green', '2022-06-25 10:27:41', '2022-06-25 10:27:43'),<{{{><}}}>	(12, NULL, NULL, NULL, '2022-06-25 15:40:27', '2022-06-25 15:40:28'),<{{{><}}}>	(24, NULL, NULL, NULL, '2022-06-25 15:40:27', '2022-06-25 15:40:28'),<{{{><}}}>	(25, NULL, NULL, NULL, '2022-06-25 15:40:27', '2022-06-26 15:40:27'),<{{{><}}}>	(26, NULL, NULL, NULL, '2022-06-11 15:45:00', '2022-06-26 15:40:27'),<{{{><}}}>	(27, NULL, NULL, NULL, '2022-06-01 10:45:00', '2022-06-01 15:45:00');<{{{><}}}>/*!40000 ALTER TABLE "events" ENABLE KEYS */;<{{{><}}}>
+Servers\heroku\QueryHistory\65<|||>1<|||>2022-06-27 21:43:40|public|154|<{{{><}}}>SELECT * FROM events WHERE 'end' > '2022-06-01 17:06:00' ;
+Servers\heroku\QueryHistory\66<|||>1<|||>2022-06-27 22:18:36|public|173|SET timezone TO DEFAULT;
+Servers\heroku\QueryHistory\67<|||>1<|||>2022-06-27 21:44:09|public|188|<{{{><}}}>SELECT * FROM events WHERE 'end' > '2022-06-21 17:06:00' ;
+Servers\heroku\QueryHistory\68<|||>1<|||>2022-06-27 22:19:49|public|156|SET timezone TO 'GMT-3';
+Servers\heroku\QueryHistory\69<|||>1<|||>2022-06-27 22:14:17|public|152|<{{{><}}}>SET timezone TO 'GMT';
+Servers\heroku\QueryHistory\7<|||>1<|||>2022-06-16 13:36:40|public|155|<{{{><}}}><{{{><}}}>INSERT INTO regulamento (idRegulamento, descricao) VALUES<{{{><}}}>(16, 'teste');
+Servers\heroku\QueryHistory\70<|||>1<|||>2022-06-27 22:23:43|public|236|SELECT * FROM events WHERE "end" > CAST('2022-06-28 22:37:00' AS date);
+Servers\heroku\QueryHistory\71<|||>1<|||>2022-06-27 22:15:04|public|153|SET timezone TO 'GMT';
+Servers\heroku\QueryHistory\72<|||>1<|||>2022-06-27 22:19:53|public|177|SELECT now();
+Servers\heroku\QueryHistory\73<|||>1<|||>2022-06-27 22:17:22|public|151|SELECT now();<{{{><}}}>
+Servers\heroku\QueryHistory\74<|||>1<|||>2022-06-27 22:20:13|public|146|SET timezone TO 'GMT3';
+Servers\heroku\QueryHistory\75<|||>1<|||>2022-06-27 22:20:18|public|152|<{{{><}}}>SELECT now();
+Servers\heroku\QueryHistory\77<|||>1<|||>2022-06-29 21:38:54|public|166|<{{{><}}}>INSERT INTO "public"."usuario" <{{{><}}}>( "usuario", "senha", "num_registro",<{{{><}}}> "peso", "sexo", "idade", "altura", "endereco",<{{{><}}}>  "login", "nivel")<{{{><}}}>   VALUES ('admin', 'dba538946456c740662acaa8aa677094',<{{{><}}}>   '2222', '22', '2', '21', '222', NULL, 'admin', '1');<{{{><}}}><{{{><}}}>
+Servers\heroku\QueryHistory\8<|||>1<|||>2022-06-16 13:36:57|public|188|<{{{><}}}>CREATE TABLE usuario (<{{{><}}}>  idUsuario int NOT NULL,<{{{><}}}>  usuario varchar(45)  ,<{{{><}}}>  senha varchar(45)  ,<{{{><}}}>  num_registro varchar(50),<{{{><}}}>  peso float ,<{{{><}}}>  sexo varchar(20) ,<{{{><}}}>  idade int ,<{{{><}}}>  altura float ,<{{{><}}}>  bloqueado int ,<{{{><}}}>  endereco varchar(100) ,<{{{><}}}>  login varchar(45)  ,<{{{><}}}>  nivel int <{{{><}}}>);<{{{><}}}>
+Servers\heroku\QueryHistory\9<|||>1<|||>2022-06-16 13:37:03|public|328|<{{{><}}}>INSERT INTO usuario (idUsuario, usuario, senha, num_registro, peso, sexo, idade, altura, bloqueado, endereco, login, nivel) VALUES<{{{><}}}>(12, 'admin', '934b535800b1cba8f96a5d72f72f1611', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>(14, 'discente', 'dba538946456c740662acaa8aa677094', '2222', NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3),<{{{><}}}>(44, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>(45, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 2),<{{{><}}}>(46, 'João', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'joao', 3),<{{{><}}}>(52, 'Gili', '3a9929d7b57122c12902951d8c61122b', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'gili', 2),<{{{><}}}>(53, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(54, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(55, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(56, 'Ana Caroline', 'a2b7c845cbd398d3be1e1801c53ad69a', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 2),<{{{><}}}>(57, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(58, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(59, 'ana', 'a2b7c845cbd398d3be1e1801c53ad69a', '33', NULL, NULL, NULL, NULL, NULL, NULL, 'loly', 3),<{{{><}}}>(60, 'tg', 'e3fd2afa75b6e2e40021c7054361fbf4', 'ert', NULL, NULL, NULL, NULL, NULL, NULL, 'rt', 3),<{{{><}}}>(61, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(62, 'jikyu', 'b6b4ce6df035dcfaa26f3bc32fb89e6a', 'yt', NULL, NULL, NULL, NULL, NULL, NULL, 'y', 3),<{{{><}}}>(63, '23', '6364d3f0f495b6ab9dcf8d3b5c6e0b01', '32', NULL, NULL, NULL, NULL, NULL, NULL, '23', 3);<{{{><}}}><{{{><}}}>--
+Servers\Mysql8.0__Teste\CleartextPluginEnabled<|||>3<|||>0
+Servers\Mysql8.0__Teste\Comment<|||>1<|||>
+Servers\Mysql8.0__Teste\Compressed<|||>3<|||>0
+Servers\Mysql8.0__Teste\Databases<|||>1<|||>
+Servers\Mysql8.0__Teste\FullTableStatus<|||>3<|||>1
+Servers\Mysql8.0__Teste\Host<|||>1<|||>127.0.0.1
+Servers\Mysql8.0__Teste\IgnoreDatabasePattern<|||>1<|||>
+Servers\Mysql8.0__Teste\KeepAlive<|||>3<|||>20
+Servers\Mysql8.0__Teste\Library<|||>1<|||>libmariadb.dll
+Servers\Mysql8.0__Teste\LocalTimeZone<|||>3<|||>0
+Servers\Mysql8.0__Teste\LogFileDdl<|||>3<|||>0
+Servers\Mysql8.0__Teste\LogFileDml<|||>3<|||>0
+Servers\Mysql8.0__Teste\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Mysql8.0__Teste\LoginPrompt<|||>3<|||>0
+Servers\Mysql8.0__Teste\NetType<|||>3<|||>0
+Servers\Mysql8.0__Teste\Password<|||>1<|||>2
+Servers\Mysql8.0__Teste\Port<|||>1<|||>3306
+Servers\Mysql8.0__Teste\QueryTimeout<|||>3<|||>30
+Servers\Mysql8.0__Teste\RefusedCount<|||>3<|||>3
+Servers\Mysql8.0__Teste\SessionCreated<|||>1<|||>2022-06-10 08:49:23
+Servers\Mysql8.0__Teste\SSHtunnelHost<|||>1<|||>
+Servers\Mysql8.0__Teste\SSHtunnelHostPort<|||>3<|||>22
+Servers\Mysql8.0__Teste\SSHtunnelPassword<|||>1<|||>1
+Servers\Mysql8.0__Teste\SSHtunnelPort<|||>3<|||>3307
+Servers\Mysql8.0__Teste\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Mysql8.0__Teste\SSHtunnelTimeout<|||>3<|||>4
+Servers\Mysql8.0__Teste\SSHtunnelUser<|||>1<|||>
+Servers\Mysql8.0__Teste\SSL_Active<|||>3<|||>0
+Servers\Mysql8.0__Teste\SSL_CA<|||>1<|||>
+Servers\Mysql8.0__Teste\SSL_Cert<|||>1<|||>
+Servers\Mysql8.0__Teste\SSL_Cipher<|||>1<|||>
+Servers\Mysql8.0__Teste\SSL_Key<|||>1<|||>
+Servers\Mysql8.0__Teste\StartupScriptFilename<|||>1<|||>
+Servers\Mysql8.0__Teste\TreeBackground<|||>3<|||>536870911
+Servers\Mysql8.0__Teste\User<|||>1<|||>root
+Servers\Mysql8.0__Teste\WindowsAuth<|||>3<|||>0
+Servers\Mysql_Root\CleartextPluginEnabled<|||>3<|||>0
+Servers\Mysql_Root\Comment<|||>1<|||>
+Servers\Mysql_Root\Compressed<|||>3<|||>0
+Servers\Mysql_Root\Databases<|||>1<|||>
+Servers\Mysql_Root\FullTableStatus<|||>3<|||>1
+Servers\Mysql_Root\Host<|||>1<|||>127.0.0.1
+Servers\Mysql_Root\IgnoreDatabasePattern<|||>1<|||>
+Servers\Mysql_Root\KeepAlive<|||>3<|||>20
+Servers\Mysql_Root\Library<|||>1<|||>libmariadb.dll
+Servers\Mysql_Root\LocalTimeZone<|||>3<|||>0
+Servers\Mysql_Root\LogFileDdl<|||>3<|||>0
+Servers\Mysql_Root\LogFileDml<|||>3<|||>0
+Servers\Mysql_Root\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Mysql_Root\LoginPrompt<|||>3<|||>0
+Servers\Mysql_Root\NetType<|||>3<|||>0
+Servers\Mysql_Root\Password<|||>1<|||>2
+Servers\Mysql_Root\Port<|||>1<|||>3306
+Servers\Mysql_Root\QueryTimeout<|||>3<|||>30
+Servers\Mysql_Root\RefusedCount<|||>3<|||>10
+Servers\Mysql_Root\SessionCreated<|||>1<|||>2022-03-26 09:59:11
+Servers\Mysql_Root\SSHtunnelHost<|||>1<|||>
+Servers\Mysql_Root\SSHtunnelHostPort<|||>3<|||>22
+Servers\Mysql_Root\SSHtunnelPassword<|||>1<|||>6
+Servers\Mysql_Root\SSHtunnelPort<|||>3<|||>3307
+Servers\Mysql_Root\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Mysql_Root\SSHtunnelTimeout<|||>3<|||>4
+Servers\Mysql_Root\SSHtunnelUser<|||>1<|||>
+Servers\Mysql_Root\SSL_Active<|||>3<|||>0
+Servers\Mysql_Root\SSL_CA<|||>1<|||>
+Servers\Mysql_Root\SSL_Cert<|||>1<|||>
+Servers\Mysql_Root\SSL_Cipher<|||>1<|||>
+Servers\Mysql_Root\SSL_Key<|||>1<|||>
+Servers\Mysql_Root\StartupScriptFilename<|||>1<|||>
+Servers\Mysql_Root\TreeBackground<|||>3<|||>536870911
+Servers\Mysql_Root\User<|||>1<|||>root
+Servers\Mysql_Root\WindowsAuth<|||>3<|||>0
+Servers\MySqlLocalHost\CleartextPluginEnabled<|||>3<|||>0
+Servers\MySqlLocalHost\Comment<|||>1<|||>
+Servers\MySqlLocalHost\Compressed<|||>3<|||>0
+Servers\MySqlLocalHost\ConnectCount<|||>3<|||>29
+Servers\MySqlLocalHost\Databases<|||>1<|||>
+Servers\MySqlLocalHost\FullTableStatus<|||>3<|||>1
+Servers\MySqlLocalHost\Host<|||>1<|||>127.0.0.1
+Servers\MySqlLocalHost\IgnoreDatabasePattern<|||>1<|||>
+Servers\MySqlLocalHost\KeepAlive<|||>3<|||>20
+Servers\MySqlLocalHost\LastConnect<|||>1<|||>2022-09-17 09:20:36
+Servers\MySqlLocalHost\lastUsedDB<|||>1<|||>
+Servers\MySqlLocalHost\Library<|||>1<|||>libmariadb.dll
+Servers\MySqlLocalHost\LocalTimeZone<|||>3<|||>0
+Servers\MySqlLocalHost\LogFileDdl<|||>3<|||>0
+Servers\MySqlLocalHost\LogFileDml<|||>3<|||>0
+Servers\MySqlLocalHost\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\MySqlLocalHost\LoginPrompt<|||>3<|||>0
+Servers\MySqlLocalHost\NetType<|||>3<|||>0
+Servers\MySqlLocalHost\Password<|||>1<|||>7966796670666A5
+Servers\MySqlLocalHost\Port<|||>1<|||>3306
+Servers\MySqlLocalHost\QueryTimeout<|||>3<|||>30
+Servers\MySqlLocalHost\RefusedCount<|||>3<|||>54
+Servers\MySqlLocalHost\ServerVersion<|||>3<|||>80030
+Servers\MySqlLocalHost\ServerVersionFull<|||>1<|||>8.0.30-0ubuntu0.20.04.2 - (Ubuntu)
+Servers\MySqlLocalHost\SessionCreated<|||>1<|||>2022-03-26 09:57:42
+Servers\MySqlLocalHost\SSHtunnelHost<|||>1<|||>
+Servers\MySqlLocalHost\SSHtunnelHostPort<|||>3<|||>22
+Servers\MySqlLocalHost\SSHtunnelPassword<|||>1<|||>1
+Servers\MySqlLocalHost\SSHtunnelPort<|||>3<|||>3307
+Servers\MySqlLocalHost\SSHtunnelPrivateKey<|||>1<|||>
+Servers\MySqlLocalHost\SSHtunnelTimeout<|||>3<|||>4
+Servers\MySqlLocalHost\SSHtunnelUser<|||>1<|||>
+Servers\MySqlLocalHost\SSL_Active<|||>3<|||>0
+Servers\MySqlLocalHost\SSL_CA<|||>1<|||>
+Servers\MySqlLocalHost\SSL_Cert<|||>1<|||>
+Servers\MySqlLocalHost\SSL_Cipher<|||>1<|||>
+Servers\MySqlLocalHost\SSL_Key<|||>1<|||>
+Servers\MySqlLocalHost\StartupScriptFilename<|||>1<|||>
+Servers\MySqlLocalHost\TreeBackground<|||>3<|||>536870911
+Servers\MySqlLocalHost\User<|||>1<|||>icaro
+Servers\MySqlLocalHost\WindowsAuth<|||>3<|||>0
+Servers\MySqlLocalHost\IFhealth|disponibilidade\Sort<|||>1<|||>0_idTutor|
+Servers\MySqlLocalHost\IFhealth|usuario\Sort<|||>1<|||>0_nivel|
+Servers\MySqlLocalHost\QueryHistory\1<|||>1<|||>2022-09-17 09:47:34|carteira_acoes|74|<{{{><}}}>ALTER TABLE venda ADD CONSTRAINT FK_venda_1<{{{><}}}>    FOREIGN KEY (fk_historico)<{{{><}}}>    REFERENCES historico (id)<{{{><}}}>    ON DELETE CASCADE;
+Servers\MySqlLocalHost\QueryHistory\2<|||>1<|||>2022-09-17 09:47:39|carteira_acoes|73|<{{{><}}}>ALTER TABLE compra ADD CONSTRAINT FK_compra_1<{{{><}}}>    FOREIGN KEY (fk_historico)<{{{><}}}>    REFERENCES historico (id)<{{{><}}}>    ON DELETE CASCADE;
+Servers\MySqlLocalHost\QueryHistory\3<|||>1<|||>2022-09-17 09:51:23||10|<{{{><}}}>CREATE DATABASE `carteira_acao` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;<{{{><}}}>
+Servers\MySqlLocalHost\SysGymIf|Alunos\MemoEditorHighlighter_nome<|||>1<|||>
+Servers\MySqlLocalHost\web1|produto\Sort<|||>1<|||>0_fabricacao|
+Servers\Sisfis\CleartextPluginEnabled<|||>3<|||>0
+Servers\Sisfis\Comment<|||>1<|||>
+Servers\Sisfis\Compressed<|||>3<|||>0
+Servers\Sisfis\ConnectCount<|||>3<|||>2
+Servers\Sisfis\Databases<|||>1<|||>sisfis
+Servers\Sisfis\FullTableStatus<|||>3<|||>1
+Servers\Sisfis\Host<|||>1<|||>200.128.100.19
+Servers\Sisfis\IgnoreDatabasePattern<|||>1<|||>^pg_temp_\d
+Servers\Sisfis\KeepAlive<|||>3<|||>20
+Servers\Sisfis\LastConnect<|||>1<|||>2022-07-14 00:35:58
+Servers\Sisfis\lastUsedDB<|||>1<|||>public
+Servers\Sisfis\Library<|||>1<|||>libpq-10.dll
+Servers\Sisfis\LocalTimeZone<|||>3<|||>0
+Servers\Sisfis\LogFileDdl<|||>3<|||>0
+Servers\Sisfis\LogFileDml<|||>3<|||>0
+Servers\Sisfis\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Sisfis\LoginPrompt<|||>3<|||>0
+Servers\Sisfis\NetType<|||>3<|||>8
+Servers\Sisfis\Password<|||>1<|||>756B75686B75343234342
+Servers\Sisfis\Port<|||>1<|||>15432
+Servers\Sisfis\QueryTimeout<|||>3<|||>30
+Servers\Sisfis\RefusedCount<|||>3<|||>2
+Servers\Sisfis\ServerVersion<|||>3<|||>130400
+Servers\Sisfis\ServerVersionFull<|||>1<|||>PostgreSQL 13.4 on x86_64-pc-linux-musl, compiled by gcc (Alpine 10.3.1_git20210424) 10.3.1 20210424, 64-bit
+Servers\Sisfis\SessionCreated<|||>1<|||>2022-07-13 23:42:42
+Servers\Sisfis\SSHtunnelHost<|||>1<|||>
+Servers\Sisfis\SSHtunnelHostPort<|||>3<|||>22
+Servers\Sisfis\SSHtunnelPassword<|||>1<|||>5
+Servers\Sisfis\SSHtunnelPort<|||>3<|||>3307
+Servers\Sisfis\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Sisfis\SSHtunnelTimeout<|||>3<|||>4
+Servers\Sisfis\SSHtunnelUser<|||>1<|||>
+Servers\Sisfis\SSL_Active<|||>3<|||>0
+Servers\Sisfis\SSL_CA<|||>1<|||>
+Servers\Sisfis\SSL_Cert<|||>1<|||>
+Servers\Sisfis\SSL_Cipher<|||>1<|||>
+Servers\Sisfis\SSL_Key<|||>1<|||>
+Servers\Sisfis\StartupScriptFilename<|||>1<|||>
+Servers\Sisfis\TreeBackground<|||>3<|||>536870911
+Servers\Sisfis\User<|||>1<|||>sisfis
+Servers\Sisfis\WindowsAuth<|||>3<|||>0
+Servers\Sisfis\QueryHistory\1<|||>1<|||>2022-07-13 23:55:01|public|218|<{{{><}}}><{{{><}}}>CREATE TABLE agendamento (<{{{><}}}>  idAgendamento SERIAL,<{{{><}}}>  fkTutor int DEFAULT NULL,<{{{><}}}>  fkDiscente int DEFAULT NULL,<{{{><}}}>  fkDisponibilidade int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\10<|||>1<|||>2022-07-14 00:42:19|public|207|<{{{><}}}>	<{{{><}}}>INSERT INTO "regulamento" ("idRegulamento", "descricao") VALUES<{{{><}}}>	(38, 'Faça a pessoa que você gosta se sentir especial ao invés de só mais uma.'),<{{{><}}}>	(39, 'A vida e uma caixa preta nunca saberemos o seu real significado.⁠'),<{{{><}}}>	(40, 'não deveríamos temer a morte, mais sim a vida.'),<{{{><}}}>	(41, 'Teu abraço eras confortante'),<{{{><}}}>	(42, 'Seja estranho. Seja aleatório. Seja quem você é. Porque você nunca sabe quem amaria a pessoa que você esconde.'),<{{{><}}}>	(43, 'A vida é um caos aleatório,ordenada pelo tempo.'),<{{{><}}}>	(44, 'A verdade, é que dói lembrar dela.'),<{{{><}}}>	(45, 'Cada instante é sempre.'),<{{{><}}}>	(46, 'O aleatório não existe, nosso cérebro sempre toma decisões mesmo que ocultas.'),<{{{><}}}>	(47, 'Um ato aleatório de bondade, por menor que seja, pode ter um tremendo impacto na vida de outra pessoa.'),<{{{><}}}>	(48, 'No mundo do aleatório a ordem é não se preocupar.'),<{{{><}}}>	(49, 'Nada aleatório. Conhecimento<{{{><}}}>		Parado<{{{><}}}>		Torna-se<{{{><}}}>		Esquecimento.');<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\11<|||>1<|||>2022-07-14 00:42:22|public|202|<{{{><}}}><{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>	(48, 'Giliarde', '456089afc41b2c7f85a2dd5ede8c8256', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Giliarde', 2),<{{{><}}}>	(50, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icarodias', 3),<{{{><}}}>	(52, 'Samara da Trindade Torquato', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'samara', 3),<{{{><}}}>	(72, 'Ana Paula da Trindade Torquato', 'bf4ad0486d0a96827e7a2c6e88930ed6', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Ana12', 3),<{{{><}}}>	(74, 'Jonatas Macêdo Costa', 'a270483b6b04251cab6fb9cca678fa72', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'jonatas', 2),<{{{><}}}>	(75, 'icaro', '22cafa50fe7bc9be837cc41bd120da39', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 2),<{{{><}}}>	(76, 'Fabio lima', 'f5bb0c8de146c67b44babbf4e6584cc0', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'fabio', 3),<{{{><}}}>	(43, 'admin', 'dba538946456c740662acaa8aa677094', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>	(45, 'icaro-tutor', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(47, 'Tutor', '2ec7805e0cce36c07750d04f60857cd9', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Tutor', 2),<{{{><}}}>	(49, 'Giliarde', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'giliarde', 3),<{{{><}}}>	(53, 'Samara da Trindade Torquato', '81dc9bdb52d04dc20036dbd8313ed055', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'samara', 2),<{{{><}}}>	(71, 'Ana Paula da Trindade Torquato', 'd747ed9eef61c00ac6b4fe5752d4cb3f', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Ana1', 3),<{{{><}}}>	(73, 'Mateus Alves dos Santos', '33c98f59791745fccc823da5f6fcdeb4', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'mateus', 2),<{{{><}}}>	(44, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(46, 'discente', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3);<{{{><}}}>	<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\12<|||>1<|||>2022-07-14 00:42:26|public|207|<{{{><}}}><{{{><}}}>INSERT INTO "events" ("id", "title", "description", "color", "start", "end") VALUES<{{{><}}}>	(102, 'Livre', NULL, 'green', '2022-07-14 13:30:00', '2022-07-14 15:30:00'),<{{{><}}}>	(104, 'Livre', NULL, 'green', '2022-07-22 08:50:00', '2022-07-22 14:46:00'),<{{{><}}}>	(105, 'Livre', NULL, 'green', '2022-08-06 08:51:00', '2022-08-06 13:51:00');<{{{><}}}>	<{{{><}}}>
+Servers\Sisfis\QueryHistory\13<|||>1<|||>2022-07-14 00:25:42|public|204|<{{{><}}}>INSERT INTO "events" ("id", "title", "description", "color", "start", "end") VALUES<{{{><}}}>	(102, 'Livre', NULL, 'green', '2022-07-14 13:30:00', '2022-07-14 15:30:00'),<{{{><}}}>	(104, 'Livre', NULL, 'green', '2022-07-22 08:50:00', '2022-07-22 14:46:00'),<{{{><}}}>	(105, 'Livre', NULL, 'green', '2022-08-06 08:51:00', '2022-08-06 13:51:00');<{{{><}}}>	
+Servers\Sisfis\QueryHistory\14<|||>1<|||>2022-07-14 00:27:02|public|211|<{{{><}}}>INSERT INTO "agendamento" ("idAgendamento", "fkTutor", "fkDiscente", "fkDisponibilidade") VALUES<{{{><}}}>	(61, 73, 46, 68);<{{{><}}}>	<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\15<|||>1<|||>2022-07-14 00:30:04|public|188|<{{{><}}}><{{{><}}}>CREATE TABLE IF NOT EXISTS agendamento (<{{{><}}}>  "idAgendamento" SERIAL,<{{{><}}}>  "fkTutor" int DEFAULT NULL,<{{{><}}}>  "fkDiscente" int DEFAULT NULL,<{{{><}}}>  "fkDisponibilidade" int DEFAULT NULL,<{{{><}}}>	CONSTRAINT "fk_Agendamento_idDiscente" FOREIGN KEY ("fkDiscente") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE,<{{{><}}}>	CONSTRAINT "fk_Agendamento_idDisponivel" FOREIGN KEY ("fkDisponibilidade") REFERENCES "public"."disponibilidade" ("idDisponibilidade") ON UPDATE NO ACTION ON DELETE CASCADE,<{{{><}}}>	CONSTRAINT "fk_Agendamento_idTutor" FOREIGN KEY ("fkTutor") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\16<|||>1<|||>2022-07-14 00:42:15|public|215|<{{{><}}}><{{{><}}}>INSERT INTO "noticia" ("idNoticia", "descricao") VALUES<{{{><}}}>	(56, 'As vezes me sinto como não fosse deste mundo, acho que a maioria se sente assim desse modo.'),<{{{><}}}>	(57, 'Sinto falta daquelas risadas, mas lembro como você fazia me sentir sozinho.'),<{{{><}}}>	(58, 'Cuide de si mesmo como cuidaria de alguém que você ama.'),<{{{><}}}>	(59, 'o ruim de mentir, com tempo você acaba acreditando nas suas próprias mentiras. ⁠'),<{{{><}}}>	(60, 'Para mim não importa qual a chance de sucesso, tão pouco sobre o que vão pensar, apenas atirarei para o alto em busca da estrela que pra mim brilhará. ⁠'),<{{{><}}}>	(55, 'Fico pensando o quanto te amei, e muitas das vezes deixei - me de lado. Fui tão sua que tinha esquecido de me, mas as pessoas mudam e esse dia chegou, e hoje sou só minha e de mais ninguém.'),<{{{><}}}>	(61, 'Você não precisa de platéia cheia para reconhecer que você é o melhor.'),<{{{><}}}>	(62, 'Não venha tirar - me a paciência, já estou exausta demais com os meus próprios , por quotingheart');<{{{><}}}>	<{{{><}}}>	
+Servers\Sisfis\QueryHistory\17<|||>1<|||>2022-07-14 00:41:41|public|257|<{{{><}}}>CREATE TABLE IF NOT EXISTS bloqueio (<{{{><}}}>  "idBloqueio" SERIAL PRIMARY KEY,<{{{><}}}>  "idDiscente" int DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\18<|||>1<|||>2022-07-14 00:41:47|public|297|<{{{><}}}><{{{><}}}>CREATE TABLE IF NOT EXISTS events (<{{{><}}}>	"id" SERIAL PRIMARY KEY,<{{{><}}}>	"title" VARCHAR(15) NULL DEFAULT NULL,<{{{><}}}>	"description" TEXT NULL DEFAULT NULL,<{{{><}}}>	"color" VARCHAR(10) NULL DEFAULT NULL,<{{{><}}}>	"start" TIMESTAMP NULL DEFAULT NULL,<{{{><}}}>	"end" TIMESTAMP NULL DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\19<|||>1<|||>2022-07-14 00:41:51|public|295|<{{{><}}}>CREATE TABLE IF NOT EXISTS noticia (<{{{><}}}>  "idNoticia" SERIAL PRIMARY KEY,<{{{><}}}>  descricao text<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\2<|||>1<|||>2022-07-13 23:55:30|public|230|<{{{><}}}>CREATE TABLE bloqueio (<{{{><}}}>  idBloqueio SERIAL,<{{{><}}}>  idDiscente int DEFAULT NULL,<{{{><}}}>  idTutor int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\20<|||>1<|||>2022-07-14 00:41:55|public|275|<{{{><}}}>CREATE TABLE IF NOT EXISTS regulamento (<{{{><}}}>  "idRegulamento" SERIAL PRIMARY KEY,<{{{><}}}>  descricao text NOT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\21<|||>1<|||>2022-07-14 00:41:59|public|255|<{{{><}}}>CREATE TABLE IF NOT EXISTS usuario (<{{{><}}}>  "idUsuario" SERIAL PRIMARY KEY,<{{{><}}}>  usuario varchar(45)  DEFAULT NULL,<{{{><}}}>  senha varchar(45)  DEFAULT NULL,<{{{><}}}>  num_registro varchar(50) DEFAULT NULL,<{{{><}}}>  peso float DEFAULT NULL,<{{{><}}}>  sexo varchar(20) DEFAULT NULL,<{{{><}}}>  idade int DEFAULT NULL,<{{{><}}}>  altura float DEFAULT NULL,<{{{><}}}>  bloqueado int DEFAULT NULL,<{{{><}}}>  endereco varchar(100) DEFAULT NULL,<{{{><}}}>  login varchar(45)  DEFAULT NULL,<{{{><}}}>  nivel int DEFAULT NULL<{{{><}}}>);<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\22<|||>1<|||>2022-07-14 00:42:02|public|250|<{{{><}}}>CREATE TABLE IF NOT EXISTS disponibilidade (<{{{><}}}>  "idDisponibilidade" SERIAL PRIMARY KEY,<{{{><}}}>  dia date DEFAULT NULL,<{{{><}}}>  "horaInicial" time DEFAULT NULL,<{{{><}}}>  "horaFinal" time DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL,<{{{><}}}>  livre int DEFAULT NULL,<{{{><}}}>  "fkevents" INTEGER NULL DEFAULT NULL,<{{{><}}}>	CONSTRAINT "FK_disponibilidade_events" FOREIGN KEY ("fkevents") REFERENCES "public"."events" ("id") ON UPDATE NO ACTION ON DELETE CASCADE,<{{{><}}}>	CONSTRAINT "FK_disponibilidade_usuario" FOREIGN KEY ("idTutor") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\23<|||>1<|||>2022-07-14 00:42:10|public|250|<{{{><}}}>CREATE TABLE IF NOT EXISTS agendamento (<{{{><}}}>  "idAgendamento" SERIAL PRIMARY KEY,<{{{><}}}>  "fkTutor" int DEFAULT NULL,<{{{><}}}>  "fkDiscente" int DEFAULT NULL,<{{{><}}}>  "fkDisponibilidade" int DEFAULT NULL<{{{><}}}>);<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\24<|||>1<|||>2022-07-14 00:42:31|public|212|<{{{><}}}>INSERT INTO "disponibilidade" ("idDisponibilidade", "dia", "horaInicial", "horaFinal", "idTutor", "livre", "fkevents") VALUES<{{{><}}}>	(68, '2022-07-14', '13:30:00', '15:30:00', 73, 1, 102),<{{{><}}}>	(70, '2022-07-22', '08:50:00', '14:46:00', 45, 1, 104),<{{{><}}}>	(71, '2022-08-06', '08:51:00', '13:51:00', 45, 1, 105);<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\25<|||>1<|||>2022-07-14 00:43:15|public|231|<{{{><}}}><{{{><}}}>INSERT INTO "agendamento" ("idAgendamento", "fkTutor", "fkDiscente", "fkDisponibilidade") VALUES<{{{><}}}>	(61, 73, 46, 68);<{{{><}}}>	<{{{><}}}>
+Servers\Sisfis\QueryHistory\26<|||>1<|||>2022-07-14 00:44:47|public|226|<{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>	(48, 'Giliarde', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Giliarde', 2),<{{{><}}}>	(50, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icarodias', 3),<{{{><}}}>	(52, 'Samara da Trindade Torquato', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'samara', 3),<{{{><}}}>	(72, 'Ana Paula da Trindade Torquato', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Ana12', 3),<{{{><}}}>	(74, 'Jonatas Macêdo Costa', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'jonatas', 2),<{{{><}}}>	(75, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 2),<{{{><}}}>	(76, 'Fabio lima', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'fabio', 3),<{{{><}}}>	(43, 'admin', 'dba538946456c740662acaa8aa677094', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>	(45, 'icaro-tutor', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(47, 'Tutor', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Tutor', 2),<{{{><}}}>	(49, 'Giliarde', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'giliarde', 3),<{{{><}}}>	(53, 'Samara da Trindade Torquato', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'samara', 2),<{{{><}}}>	(71, 'Ana Paula da Trindade Torquato', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Ana1', 3),<{{{><}}}>	(73, 'Mateus Alves dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'mateus', 2),<{{{><}}}>	(44, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(46, 'discente', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3);<{{{><}}}>	<{{{><}}}>
+Servers\Sisfis\QueryHistory\27<|||>1<|||>2022-07-14 00:50:05|public|265|<{{{><}}}>CREATE TABLE IF NOT EXISTS agendamento (<{{{><}}}>  "idAgendamento" SERIAL PRIMARY KEY,<{{{><}}}>  "fkTutor" int DEFAULT NULL,<{{{><}}}>  "fkDiscente" int DEFAULT NULL,<{{{><}}}>  "fkDisponibilidade" int DEFAULT NULL,<{{{><}}}>	CONSTRAINT "fk_Agendamento_idDiscente" FOREIGN KEY ("fkDiscente") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE,<{{{><}}}>	CONSTRAINT "fk_Agendamento_idDisponivel" FOREIGN KEY ("fkDisponibilidade") REFERENCES "public"."disponibilidade" ("idDisponibilidade") ON UPDATE NO ACTION ON DELETE CASCADE,<{{{><}}}>	CONSTRAINT "fk_Agendamento_idTutor" FOREIGN KEY ("fkTutor") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE<{{{><}}}><{{{><}}}>);
+Servers\Sisfis\QueryHistory\28<|||>1<|||>2022-07-14 00:52:32|public|268|<{{{><}}}><{{{><}}}>CREATE TABLE IF NOT EXISTS bloqueio (<{{{><}}}>  "idBloqueio" SERIAL PRIMARY KEY,<{{{><}}}>  "idDiscente" int DEFAULT NULL,<{{{><}}}>  "idTutor" int DEFAULT NULL,<{{{><}}}>	"tempo" VARCHAR(20) NULL DEFAULT NULL,<{{{><}}}>	"bloqueio" BOOLEAN NULL DEFAULT NULL,<{{{><}}}>	CONSTRAINT "FK_bloqueio_usuario" FOREIGN KEY ("idDiscente") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE,<{{{><}}}>	CONSTRAINT "FK_bloqueio_usuario_2" FOREIGN KEY ("idTutor") REFERENCES "public"."usuario" ("idUsuario") ON UPDATE NO ACTION ON DELETE CASCADE<{{{><}}}><{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\29<|||>1<|||>2022-07-14 00:52:55|public|199|<{{{><}}}><{{{><}}}><{{{><}}}>INSERT INTO "bloqueio" ("idBloqueio", "idDiscente", "idTutor", "tempo", "bloqueio") VALUES<{{{><}}}>	(75, 49, 43, NULL, 'false'),<{{{><}}}>	(73, 47, 47, NULL, 'false'),<{{{><}}}>	(74, 48, 48, NULL, 'false'),<{{{><}}}>	(79, 53, 53, NULL, 'false'),<{{{><}}}>	(112, 46, 45, '1', 'false'),<{{{><}}}>	(76, 50, 43, NULL, 'false'),<{{{><}}}>	(115, 71, 43, NULL, 'true'),<{{{><}}}>	(116, 50, 43, '3', 'true'),<{{{><}}}>	(70, 44, 43, NULL, 'false'),<{{{><}}}>	(86, 44, 45, '1', 'false'),<{{{><}}}>	(113, 44, 43, '2', 'false'),<{{{><}}}>	(117, 72, 43, NULL, 'true'),<{{{><}}}>	(118, 73, 73, NULL, 'true'),<{{{><}}}>	(119, 74, 74, NULL, 'true'),<{{{><}}}>	(120, 75, 75, NULL, 'true'),<{{{><}}}>	(71, 45, 45, NULL, 'false'),<{{{><}}}>	(121, 76, 43, NULL, 'true'),<{{{><}}}>	(122, 50, 43, '1', 'true'),<{{{><}}}>	(78, 52, 43, NULL, 'false');<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\3<|||>1<|||>2022-07-13 23:55:56|public|219|<{{{><}}}>CREATE TABLE disponibilidade (<{{{><}}}>  idDisponibilidade SERIAL,<{{{><}}}>  dia date DEFAULT NULL,<{{{><}}}>  horaInicial time DEFAULT NULL,<{{{><}}}>  horaFinal time DEFAULT NULL,<{{{><}}}>  idTutor int DEFAULT NULL,<{{{><}}}>  livre int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\4<|||>1<|||>2022-07-13 23:55:59|public|246|<{{{><}}}>CREATE TABLE noticia (<{{{><}}}>  idNoticia SERIAL,<{{{><}}}>  descricao text<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\5<|||>1<|||>2022-07-13 23:56:03|public|239|<{{{><}}}>CREATE TABLE regulamento (<{{{><}}}>  idRegulamento SERIAL,<{{{><}}}>  descricao text NOT NULL<{{{><}}}>);<{{{><}}}><{{{><}}}>
+Servers\Sisfis\QueryHistory\6<|||>1<|||>2022-07-13 23:56:41|public|234|<{{{><}}}><{{{><}}}>CREATE TABLE usuario (<{{{><}}}>  idUsuario SERIAL,<{{{><}}}>  usuario varchar(45)  DEFAULT NULL,<{{{><}}}>  senha varchar(45)  DEFAULT NULL,<{{{><}}}>  num_registro varchar(50) DEFAULT NULL,<{{{><}}}>  peso float DEFAULT NULL,<{{{><}}}>  sexo varchar(20) DEFAULT NULL,<{{{><}}}>  idade int DEFAULT NULL,<{{{><}}}>  altura float DEFAULT NULL,<{{{><}}}>  bloqueado int DEFAULT NULL,<{{{><}}}>  endereco varchar(100) DEFAULT NULL,<{{{><}}}>  login varchar(45)  DEFAULT NULL,<{{{><}}}>  nivel int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\7<|||>1<|||>2022-07-14 00:17:26|public|217|<{{{><}}}>CREATE TABLE usuario (<{{{><}}}>  "idUsuario" SERIAL,<{{{><}}}>  usuario varchar(45)  DEFAULT NULL,<{{{><}}}>  senha varchar(45)  DEFAULT NULL,<{{{><}}}>  num_registro varchar(50) DEFAULT NULL,<{{{><}}}>  peso float DEFAULT NULL,<{{{><}}}>  sexo varchar(20) DEFAULT NULL,<{{{><}}}>  idade int DEFAULT NULL,<{{{><}}}>  altura float DEFAULT NULL,<{{{><}}}>  bloqueado int DEFAULT NULL,<{{{><}}}>  endereco varchar(100) DEFAULT NULL,<{{{><}}}>  login varchar(45)  DEFAULT NULL,<{{{><}}}>  nivel int DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Sisfis\QueryHistory\8<|||>1<|||>2022-07-14 00:17:44|public|211|<{{{><}}}><{{{><}}}>INSERT INTO "usuario" ("idUsuario", "usuario", "senha", "num_registro", "peso", "sexo", "idade", "altura", "bloqueado", "endereco", "login", "nivel") VALUES<{{{><}}}>	(48, 'Giliarde', '456089afc41b2c7f85a2dd5ede8c8256', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Giliarde', 2),<{{{><}}}>	(50, 'Ícaro Dias dos Santos', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icarodias', 3),<{{{><}}}>	(52, 'Samara da Trindade Torquato', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'samara', 3),<{{{><}}}>	(72, 'Ana Paula da Trindade Torquato', 'bf4ad0486d0a96827e7a2c6e88930ed6', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Ana12', 3),<{{{><}}}>	(74, 'Jonatas Macêdo Costa', 'a270483b6b04251cab6fb9cca678fa72', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'jonatas', 2),<{{{><}}}>	(75, 'icaro', '22cafa50fe7bc9be837cc41bd120da39', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 2),<{{{><}}}>	(76, 'Fabio lima', 'f5bb0c8de146c67b44babbf4e6584cc0', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'fabio', 3),<{{{><}}}>	(43, 'admin', 'dba538946456c740662acaa8aa677094', '2222', 22, '2', 21, 222, NULL, NULL, 'admin', 1),<{{{><}}}>	(45, 'icaro-tutor', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro-tutor', 2),<{{{><}}}>	(47, 'Tutor', '2ec7805e0cce36c07750d04f60857cd9', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Tutor', 2),<{{{><}}}>	(49, 'Giliarde', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'giliarde', 3),<{{{><}}}>	(53, 'Samara da Trindade Torquato', '81dc9bdb52d04dc20036dbd8313ed055', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'samara', 2),<{{{><}}}>	(71, 'Ana Paula da Trindade Torquato', 'd747ed9eef61c00ac6b4fe5752d4cb3f', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Ana1', 3),<{{{><}}}>	(73, 'Mateus Alves dos Santos', '33c98f59791745fccc823da5f6fcdeb4', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'mateus', 2),<{{{><}}}>	(44, 'icaro', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'icaro', 3),<{{{><}}}>	(46, 'discente', 'dba538946456c740662acaa8aa677094', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'discente', 3);<{{{><}}}>	<{{{><}}}>
+Servers\Sisfis\QueryHistory\9<|||>1<|||>2022-07-14 00:25:15|public|194|<{{{><}}}>CREATE TABLE IF NOT EXISTS  events (<{{{><}}}>	"id" SERIAL,<{{{><}}}>	"title" VARCHAR(15) NULL DEFAULT NULL,<{{{><}}}>	"description" TEXT NULL DEFAULT NULL,<{{{><}}}>	"color" VARCHAR(10) NULL DEFAULT NULL,<{{{><}}}>	"start" TIMESTAMP NULL DEFAULT NULL,<{{{><}}}>	"end" TIMESTAMP NULL DEFAULT NULL<{{{><}}}>);<{{{><}}}>
+Servers\sisgertreino\CleartextPluginEnabled<|||>3<|||>0
+Servers\sisgertreino\Comment<|||>1<|||>
+Servers\sisgertreino\Compressed<|||>3<|||>0
+Servers\sisgertreino\Databases<|||>1<|||>sisgertreino
+Servers\sisgertreino\FullTableStatus<|||>3<|||>1
+Servers\sisgertreino\Host<|||>1<|||>
+Servers\sisgertreino\IgnoreDatabasePattern<|||>1<|||>
+Servers\sisgertreino\KeepAlive<|||>3<|||>20
+Servers\sisgertreino\Library<|||>1<|||>libmariadb.dll
+Servers\sisgertreino\LocalTimeZone<|||>3<|||>0
+Servers\sisgertreino\LogFileDdl<|||>3<|||>0
+Servers\sisgertreino\LogFileDml<|||>3<|||>0
+Servers\sisgertreino\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\sisgertreino\LoginPrompt<|||>3<|||>0
+Servers\sisgertreino\NetType<|||>3<|||>0
+Servers\sisgertreino\Password<|||>1<|||>766C766A68757775686C7172353335343
+Servers\sisgertreino\Port<|||>1<|||>18081
+Servers\sisgertreino\QueryTimeout<|||>3<|||>30
+Servers\sisgertreino\RefusedCount<|||>3<|||>9
+Servers\sisgertreino\SessionCreated<|||>1<|||>2022-07-08 10:10:54
+Servers\sisgertreino\SSHtunnelHost<|||>1<|||>
+Servers\sisgertreino\SSHtunnelHostPort<|||>3<|||>22
+Servers\sisgertreino\SSHtunnelPassword<|||>1<|||>8
+Servers\sisgertreino\SSHtunnelPort<|||>3<|||>3307
+Servers\sisgertreino\SSHtunnelPrivateKey<|||>1<|||>
+Servers\sisgertreino\SSHtunnelTimeout<|||>3<|||>4
+Servers\sisgertreino\SSHtunnelUser<|||>1<|||>
+Servers\sisgertreino\SSL_Active<|||>3<|||>0
+Servers\sisgertreino\SSL_CA<|||>1<|||>
+Servers\sisgertreino\SSL_Cert<|||>1<|||>
+Servers\sisgertreino\SSL_Cipher<|||>1<|||>
+Servers\sisgertreino\SSL_Key<|||>1<|||>
+Servers\sisgertreino\StartupScriptFilename<|||>1<|||>
+Servers\sisgertreino\TreeBackground<|||>3<|||>536870911
+Servers\sisgertreino\User<|||>1<|||>sisgertreino
+Servers\sisgertreino\WindowsAuth<|||>3<|||>0
+Servers\sys03\CleartextPluginEnabled<|||>3<|||>0
+Servers\sys03\Comment<|||>1<|||>
+Servers\sys03\Compressed<|||>3<|||>0
+Servers\sys03\ConnectCount<|||>3<|||>8
+Servers\sys03\Databases<|||>1<|||>u365012372_cred_total
+Servers\sys03\FullTableStatus<|||>3<|||>1
+Servers\sys03\Host<|||>1<|||>185.211.7.1
+Servers\sys03\IgnoreDatabasePattern<|||>1<|||>
+Servers\sys03\KeepAlive<|||>3<|||>20
+Servers\sys03\LastConnect<|||>1<|||>2022-09-14 12:39:00
+Servers\sys03\lastUsedDB<|||>1<|||>u365012372_cred_total
+Servers\sys03\Library<|||>1<|||>libmariadb.dll
+Servers\sys03\LocalTimeZone<|||>3<|||>0
+Servers\sys03\LogFileDdl<|||>3<|||>0
+Servers\sys03\LogFileDml<|||>3<|||>0
+Servers\sys03\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\sys03\LoginPrompt<|||>3<|||>0
+Servers\sys03\NetType<|||>3<|||>0
+Servers\sys03\Password<|||>1<|||>497944343B35363C374
+Servers\sys03\Port<|||>1<|||>3306
+Servers\sys03\QueryTimeout<|||>3<|||>30
+Servers\sys03\ServerVersion<|||>3<|||>100513
+Servers\sys03\ServerVersionFull<|||>1<|||>10.5.13-MariaDB-cll-lve - MariaDB Server
+Servers\sys03\SessionCreated<|||>1<|||>2022-07-25 17:43:58
+Servers\sys03\SSHtunnelHost<|||>1<|||>
+Servers\sys03\SSHtunnelHostPort<|||>3<|||>22
+Servers\sys03\SSHtunnelPassword<|||>1<|||>8
+Servers\sys03\SSHtunnelPort<|||>3<|||>3307
+Servers\sys03\SSHtunnelPrivateKey<|||>1<|||>
+Servers\sys03\SSHtunnelTimeout<|||>3<|||>4
+Servers\sys03\SSHtunnelUser<|||>1<|||>
+Servers\sys03\SSL_Active<|||>3<|||>0
+Servers\sys03\SSL_CA<|||>1<|||>
+Servers\sys03\SSL_Cert<|||>1<|||>
+Servers\sys03\SSL_Cipher<|||>1<|||>
+Servers\sys03\SSL_Key<|||>1<|||>
+Servers\sys03\StartupScriptFilename<|||>1<|||>
+Servers\sys03\TreeBackground<|||>3<|||>536870911
+Servers\sys03\User<|||>1<|||>u365012372_cred_total
+Servers\sys03\WindowsAuth<|||>3<|||>0
+Servers\sys03\u365012372_cred_total|users\Sort<|||>1<|||>0_supervisor_id|
+Servers\Unnamed-1\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-1\Comment<|||>1<|||>
+Servers\Unnamed-1\Compressed<|||>3<|||>0
+Servers\Unnamed-1\Databases<|||>1<|||>
+Servers\Unnamed-1\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-1\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-1\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed-1\KeepAlive<|||>3<|||>20
+Servers\Unnamed-1\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-1\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-1\LogFileDdl<|||>3<|||>0
+Servers\Unnamed-1\LogFileDml<|||>3<|||>0
+Servers\Unnamed-1\LogFilePath<|||>1<|||>C:\users\icaro\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Unnamed-1\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-1\NetType<|||>3<|||>0
+Servers\Unnamed-1\Password<|||>1<|||>2
+Servers\Unnamed-1\Port<|||>1<|||>3306
+Servers\Unnamed-1\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-1\RefusedCount<|||>3<|||>2
+Servers\Unnamed-1\SessionCreated<|||>1<|||>2022-07-08 15:11:58
+Servers\Unnamed-1\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-1\SSHtunnelPassword<|||>1<|||>4
+Servers\Unnamed-1\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-1\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-1\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-1\SSL_Active<|||>3<|||>0
+Servers\Unnamed-1\SSL_CA<|||>1<|||>
+Servers\Unnamed-1\SSL_Cert<|||>1<|||>
+Servers\Unnamed-1\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-1\SSL_Key<|||>1<|||>
+Servers\Unnamed-1\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-1\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-1\User<|||>1<|||>root
+Servers\Unnamed-1\WindowsAuth<|||>3<|||>0
